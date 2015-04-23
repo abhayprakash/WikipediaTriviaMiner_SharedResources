@@ -1,0 +1,1221 @@
+MOVIE	TRIVIA	count_boring	count_interesting	count_veryInteresting
+Aliens (film)	"Aliens is a 1986 American science-fiction action horror film written and directed by James Cameron, produced by his then-wife Gale Anne Hurd, and starring Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser, Lance Henriksen, William Hope, and Bill Paxton."	2	3	0
+Aliens (film)	"Brandywine Productions was interested in a follow-up to Alien as soon as its 1979 release, but the new management at 20th Century Fox postponed those plans until 1983."	4	1	0
+Aliens (film)	"Aliens was a critical and commercial success, with positive reviews that considered it an entertaining film that despite the tonal shift still served as a worthy sequel to Alien, and grossed $180 million worldwide."	4	1	0
+Aliens (film)	"The movie was nominated for seven Academy Awards, including a Best Actress nomination for Sigourney Weaver, winning both Sound Effects Editing and Visual Effects."	0	4	1
+Aliens (film)	"While the producers and development executive Larry Wilson sought a writer for Alien&#160;II, Wilson came across James Cameron's screenplay for The Terminator, and passed the script to Giler feeling Cameron was apt for the job."	3	2	0
+Aliens (film)	"Following the success of The Terminator, Cameron and producing partner Gale Anne Hurd were given approval to direct and produce the sequel to Alien, scheduled for a 1986 release."	2	3	0
+Aliens (film)	"Cameron opted to hire actors who had, or could imitate, American accents."	2	3	0
+Aliens (film)	The principal cast members of Aliens are:	4	1	0
+Aliens (film)	"Aliens Marines cast also features Jenette Goldstein as Private Vasquez (she received a Saturn Award for best supporting actress), Mark Rolston as Private Drake, Colette Hiller as Corporal Ferro, Daniel Kash as Private Spunkmeyer, Cynthia Dale Scott as Corporal Dietrich, the Marines' corpsman, Tip Tipping as Private Crowe, and Trevor Steedman as Private Wierzbowski."	4	1	0
+Aliens (film)	"Aliens was filmed on a budget of $18 million at Pinewood Studios in England, with production lasting ten months."	2	2	1
+Aliens (film)	Production was affected by a number of personnel and cast disruptions.	4	1	0
+Aliens (film)	"Some scenes of the Alien nest were shot at the decommissioned Acton Lane Power Station in Acton, London."	3	2	0
+Aliens (film)	"At one point the crew members mocked Cameron's wife, producer Gale Anne Hurd, by asking her who the producer was and insisting that she was only getting producer's credit because she was married to the director."	3	2	0
+Aliens (film)	Music composer James Horner felt he was not given enough time to create a musical score.	2	3	0
+Aliens (film)	"Six weeks from theatrical release, no dubbing had taken place and the score had not been written, as Horner was unable to view the completed film."	0	4	1
+Aliens (film)	The final cue for the scene in which Ripley battles the Alien queen was written overnight.	3	2	0
+Aliens (film)	Horner stated that tensions between himself and Cameron were so high during post-production that he assumed they would never work together again.	2	3	0
+Aliens (film)	"Early concept art was created by Syd Mead, who had worked on Blade Runner, 2010 and Tron."	3	2	0
+Aliens (film)	"One of the original designs for the spaceship Sulaco was spherical, but it was redesigned as the ship would be out of frame due to the film's aspect ratio."	2	2	1
+Aliens (film)	"Concept artists were asked to incorporate subliminal acknowledgments to the Vietnam War, which included designing the dropship as a combination of a F-4 Phantom&#160;II and AH-1 Cobra."	3	2	0
+Aliens (film)	"British Airways was re-equipping several of its aircraft tug tractors, and the crew managed to purchase a 635 hp Hunslet ATT  tug to use as the armored personnel carrier."	2	2	1
+Aliens (film)	"Weapons used by the space marines were based on real, fully functional weapons."	1	4	0
+Aliens (film)	British armorers used guns they found to be the most reliable when firing blanks and those which looked futuristic.	3	2	0
+Aliens (film)	"The 'pulse rifles' were created from a Thompson SMG, with an attached forend of a Franchi SPAS-12 shotgun and a Remington 12 Gauge Model 870P receiver with barrel."	2	2	1
+Aliens (film)	"Aside from the Alien Queen, designed by Cameron himself, the Aliens still took inspiration off H. R. Giger's designs for the original."	1	4	0
+Aliens (film)	"The only change was removing the translucent dome that gave the creature's head its sleek shape in Alien, exposing the ridged, spined cranium beneath."	3	2	0
+Aliens (film)	"Brothers Robert and Dennis Skotak were hired to supervise the visual effects, having previously worked with Cameron on several Roger Corman movies."	1	4	0
+Aliens (film)	"Two stages were used to construct the colony on LV-426, using miniature models that were on average six feet tall and three feet wide."	2	3	0
+Aliens (film)	"Filming the miniatures was difficult because of the weather; the wind would blow over the props, although it proved helpful to give the effect of weather on the planet."	2	3	0
+Aliens (film)	"The Alien suits were made more flexible and durable than the ones used in Alien, to expand on the creatures' movements and allow them to crawl and jump."	2	3	0
+Aliens (film)	"Dancers, gymnasts, and stunt men were hired to portray the Aliens."	1	2	2
+Aliens (film)	"Scenes involving the Alien queen were the most difficult to film, according to production staff."	2	3	0
+Aliens (film)	A life-sized mock-up was created by Stan Winston's company in the United States to see how it would operate.	3	2	0
+Aliens (film)	"Eagerly anticipated by fans following the success of Alien, Aliens was released in North America on July 18, 1986, and August 29 in the United Kingdom."	3	2	0
+Aliens (film)	Test and pre-screenings were unable to take place for Aliens due to the film not being completed until its week of release.	2	3	0
+Aliens (film)	Reviews of the film have remained mostly positive over the years.	3	2	0
+Aliens (film)	These black touches contrast or even attempt to take over the purity of the white elements.	4	1	0
+Aliens (film)	"The android character Bishop has been the subject of literary and philosophical analysis as a high-profile fictional android conforming to science fiction author Isaac Asimov's Three Laws of Robotics and as a model of a compliant, potentially self-aware machine."	1	3	1
+Aliens (film)	"Aliens was nominated for seven Academy Awards including Best Music, Best Sound, Best Film Editing, and Best Art Direction/Set Decoration."	1	3	1
+Aliens (film)	Aliens received four BAFTA award nominations and won in the category of Visual Effects.	1	4	0
+Aliens (film)	"Aliens was first released on VHS in 1987, finishing as the tenth best-selling title of the year."	3	2	0
+Aliens (film)	"Most of the Special Edition's footage was first seen when the film made its broadcast television debut on CBS in 1989, but two additional sequences concerning Burke's transmission to the colony about the derelict, and the Jorden family's subsequent discovery of the same, were added to the initial Laserdisc release."	2	3	0
+Aliens (film)	"The special edition was released as part of The Alien Legacy 20th Anniversary Edition DVD box set in 1999 along with Alien, Alien 3, and Alien Resurrection."	3	2	0
+Aliens (film)	"In 2013, NECA released the first wave of highly detailed human and alien action figures from the respective film."	4	1	0
+Aliens (film)	NECA's Reel Toys worked directly with actors from the Alien franchise to release realistic figures based on select characters they portrayed in the films.	3	2	0
+Aliens (film)	"NECA has released 7-inch figures based on characters such as Corporal Hicks, Private Hudson and Bishop."	3	2	0
+Aliens (film)	"During winter 2014, it was announced there would be multiple figures of Ripley, Sigourney Weaver’s character from the Alien films."	3	2	0
+Aliens (film)	It is the sequel to the 1979 film Alien and the second installment of the Alien franchise.	2	3	0
+Aliens (film)	"It was filmed in England at Pinewood Studios and at a decommissioned power plant in Acton, London."	3	2	0
+Aliens (film)	"It won eight Saturn Awards, including Best Science Fiction Film, Best Actress for Weaver and Best Direction and Best Writing for Cameron."	3	2	0
+Aliens (film)	"It initially weighed 70 short tons (64,000&#160;kg), and although the crew removed 35 short tons (32,000&#160;kg) of lead ballast, the power station floor had to be reinforced to support the weight."	2	3	0
+Aliens (film)	"It was number one at the North American box office for four consecutive weeks, grossing $85.1 million."	4	1	0
+Aliens (film)	It won two awards for Sound Effects Editing and Visual Effects.	1	4	0
+Aliens (film)	"It won eight Saturn Awards in the categories of best science fiction film, actress (Sigourney Weaver), supporting actor (Bill Paxton), supporting actress (Jenette Goldstein), performance by a younger actor (Carrie Henn), direction (James Cameron), writing (James Cameron), and special effects (Stan Winston and the L.A. Effects Group)."	2	2	1
+Aliens (film)	"The film follows Weaver's character Ellen Ripley as she returns to the planet where her crew encountered the hostile Alien creature, this time accompanied by a unit of space marines."	3	2	0
+Aliens (film)	"After four days Cameron produced an initial 45-page treatment, although the Fox management put the film on hiatus, as some disliked the pitch and they felt that Alien had not generated enough profit to warrant a sequel."	3	2	0
+Aliens (film)	"Horner, however, discovered that filming and editing were still taking place, and he was unable to view the film."	4	1	0
+Aliens (film)	"As Gale Hurd did not have much music production experience, she and Cameron denied Horner's request to push the film back four weeks so he could finish the score."	1	4	0
+Aliens (film)	"Gale Hurd wanted to cut the scene altogether, but Lamont and Cameron felt it was important to the sequence of the film."	4	1	0
+Aliens (film)	"In North America, the film opened in 1,437 theaters with an average opening gross of $6,995 and a weekend gross of $10,052,042."	2	2	1
+Aliens (film)	"The film's worldwide total gross was $180 million, making Aliens one of the highest grossing R-rated films at the time."	0	4	1
+Aliens (film)	"The selection of Aliens for a Time cover was attributed to the successful reception of the film, as well as its novel example of a science fiction action heroine."	3	2	0
+Aliens (film)	"This is seen as part of a larger trend of technophobia in films prior to the 1990s, with Bishop's role being particularly significant as he proves his worth at the end of the film, thus confounding Ripley's expectations."	4	1	0
+Aliens (film)	"The film was first made available on Blu-Ray in the 2010 box set Alien Anthology, before receiving a stand-alone release the following year."	1	4	0
+Batman Begins	"Batman Begins is a 2005 superhero film based on the fictional DC Comics character Batman, co-written and directed by Christopher Nolan."	2	3	0
+Batman Begins	"After a series of unsuccessful projects to resurrect Batman on screen following the critical failure and box office disappointment of Batman &amp; Robin (1997), Nolan and David S. Goyer began to work on the film in early 2003 and aimed for a darker and more realistic tone, with humanity and realism being the basis of the film."	2	3	0
+Batman Begins	Batman Begins was both critically and commercially successful.	3	2	0
+Batman Begins	"The film opened on June 17, 2005, in the United States and Canada in 3,858&#160;theaters."	4	1	0
+Batman Begins	"The film is followed by The Dark Knight (2008) and The Dark Knight Rises (2012) in a continual story-arc, which has later been referred to as the The Dark Knight Trilogy."	0	4	1
+Batman Begins	"Other cast members include Mark Boone Junior as Gordon's corrupt partner Detective Arnold Flass; Larry Holden as district attorney Carl Finch; Colin McFarlane as Police commissioner Gillian B. Loeb; Christine Adams as Jessica, Lucius Fox's secretary; Linus Roache and Sara Stewart as Thomas and Martha Wayne, Bruce's parents; Richard Brake as Joe Chill, the Waynes' killer; Gerard Murphy as the corrupt High Court Judge Faden; Charles Edwards as a Wayne Enterprises executive; Tim Booth as Victor Zsasz; Rade Šerbedžija as a homeless man, who is the last person to meet Bruce when he leaves Gotham, and the first civilian to see Batman, and both Risteárd Cooper and Andrew Pleavin as uniformed policemen."	3	2	0
+Batman Begins	"Actors John Foo, Joey Ansah, Spencer Wilding, Dave Legeno, Khan Bonfils, Rodney Ryan, Dean Alexandrou, James Embree, David Bedella, Emil Martirossian, Mark Strange, Justin Miu and Chuen Tsou appear as members of the League of Shadows."	3	2	0
+Batman Begins	"In January 2003, Warner Bros. hired Memento director Christopher Nolan to direct an untitled Batman film, and David S. Goyer signed on to write the script two months later."	2	3	0
+Batman Begins	A common idea in the comics is that Bruce saw a Zorro film with his parents before they were murdered.	1	2	2
+Batman Begins	"At his audition, Bale wore the bat suit (minus the cape which has been missing for some time) Val Kilmer donned for 1995's Batman Forever."	2	2	1
+Batman Begins	"As with all his films, Nolan refused a second unit; he did this in order to keep his vision consistent."	2	3	0
+Batman Begins	Filming began in March 2004 in the Vatnajökull glacier in Iceland (standing in for Bhutan).	2	3	0
+Batman Begins	"The crew built a village and the front doors to Ra's' temple, as well as a road to access the remote area."	2	3	0
+Batman Begins	"The weather was problematic, with 75 miles per hour (121&#160;km/h) winds, rain, and a lack of snow."	2	3	0
+Batman Begins	A shot Wally Pfister had planned to take using a crane had to be done with a handheld camera.	3	1	1
+Batman Begins	"In seeking inspiration from Superman and other blockbuster films of the late 1970s and early 1980s, Nolan based most of the production in England, specifically Shepperton Studios."	3	2	0
+Batman Begins	"A Batcave set was built there and measured 250 feet (76&#160;m) long, 120 feet (37&#160;m) wide, and 40 feet (12&#160;m) high."	4	1	0
+Batman Begins	"Production designer Nathan Crowley installed twelve pumps to create a waterfall with 12,000 imperial gallons (55,000&#160;l; 14,000&#160;US&#160;gal), and built rocks using molds of real caves."	4	1	0
+Batman Begins	"Mentmore Towers was chosen from twenty different locations for Wayne Manor, as Nolan and Crowley liked its white floors, which gave the impression of the manor as a memorial to Wayne's parents."	1	3	1
+Batman Begins	"The building chosen to represent Arkham Asylum was the National Institute for Medical Research building in Mill Hill, northwest London, England."	3	1	1
+Batman Begins	The St Pancras railway station and the Abbey Mills Pumping Stations were used for Arkham's interiors.	2	3	0
+Batman Begins	"Despite the film's darkness, Nolan wanted to make the film appeal to a wide age range."	4	1	0
+Batman Begins	Nolan used the 1982 cult science fiction film Blade Runner as a source of inspiration for Batman Begins.	1	3	1
+Batman Begins	Nolan worked with production designer Nathan Crowley to create the look of Gotham City.	2	3	0
+Batman Begins	Crowley started the process of designing the Tumbler for the film by model bashing.	3	2	0
+Batman Begins	"On the first jump test, the Tumbler's front end collapsed and had to be completely rebuilt."	2	3	0
+Batman Begins	The design and development process took nine months and cost several million dollars.	1	4	0
+Batman Begins	"With the design process complete, four street-ready race cars were constructed, with each vehicle possessing 65 panels and costing $250,000 to build."	4	1	0
+Batman Begins	The interior of the Tumbler was an immobile studio set and not actually the interior of a street-capable Tumbler.	3	1	1
+Batman Begins	The filmmakers intended to create a very mobile Batsuit that would allow the wearer to move easily to fight and crouch.	3	2	0
+Batman Begins	"Fight choreography used the Keysi Fighting Method which itself gained fame after it was used in the movie Batman Begins and its sequel, The Dark Knight; however, the method was modified in the The Dark Knight Rises due to Batman's age and physical condition and in order to match Bane's fighting style."	3	2	0
+Batman Begins	"For Batman Begins, Nolan preferred traditional stuntwork over computer-generated imagery."	2	3	0
+Batman Begins	Scale models were used to represent the Narrows and Ra's al Ghul's temple.	3	2	0
+Batman Begins	"There were, however, several establishing shots that were CG composite images; that is, an image composed of multiple images."	3	2	0
+Batman Begins	"Examples include Gotham's skyline, exterior shots of Wayne Tower, and some of the exterior monorail shots."	3	2	0
+Batman Begins	"The climactic monorail sequence mixed live action footage, model work, and CGI."	4	1	0
+Batman Begins	"The bats were entirely digital (except in shots containing only one or two bats), as it was decided directing larger numbers of real bats on set would be problematic."	1	4	0
+Batman Begins	Dead bats were scanned to create digital models.	1	3	1
+Batman Begins	Locations and sets were recreated on the computer so the flying bats would not be superfluous once incorporated into the finished film.	2	3	0
+Batman Begins	The score for Batman Begins was composed by Hans Zimmer and James Newton Howard.	4	1	0
+Batman Begins	"Zimmer wanted to avoid writing music that had been done in earlier Batman films, so the score became an amalgamation of orchestra and electronic music."	2	3	0
+Batman Begins	"Fingeroth also argues that a major theme in the film is fear, which supports the story of Bruce Wayne becoming a hero."	4	1	0
+Batman Begins	"Wally Pfister was nominated for Best Cinematography at the 78th Academy Awards, receiving the film's only Academy Award nomination."	4	1	0
+Batman Begins	"In November 2008, Empire ranked Batman Begins 81 in its 500 Greatest Movies of All Time list."	4	1	0
+Batman Begins	"Batman Begins opened on June 17, 2005 in the United States and Canada in 3,858&#160;theaters, including 55 IMAX theaters."	3	2	0
+Batman Begins	"The film's five-day gross was $72.9&#160;million, beating Batman Forever (1995) as the franchise high."	3	2	0
+Batman Begins	"The film held its top spot for another weekend, accumulating $28&#160;million in a 43 percent drop from its first weekend."	3	2	0
+Batman Begins	Batman Begins went on to gross $205&#160;million in North America and had a worldwide total of $373&#160;million.	3	1	1
+Batman Begins	"The DVD of Batman Begins was released on October 18, 2005, in both single-disc and two-disc deluxe editions and also released on VHS and UMD Video formats."	2	3	0
+Batman Begins	"In addition to the film, the deluxe edition contained featurettes and other bonus materials."	4	1	0
+Batman Begins	"Batman Begins was released on HD DVD on October 10, 2006."	3	2	0
+Batman Begins	"A Limited Edition Giftset of the film was released on DVD and Blu-ray on July 8, 2008, to coincide with The Dark Knight which hit theaters July 18, 2008."	3	2	0
+Batman Begins	"Shawn Adler of MTV stated Batman Begins heralded a trend of darker genre films, that either retold back-stories or rebooted them altogether."	3	2	0
+Batman Begins	"It stars Christian Bale as Batman along with Michael Caine, Liam Neeson, Katie Holmes, Gary Oldman, and Morgan Freeman."	4	1	0
+Batman Begins	"It draws inspiration from classic comic book storylines such as The Man Who Falls, Batman: Year One, and Batman: The Long Halloween."	4	1	0
+Batman Begins	"It grossed $48&#160;million in its opening weekend in North America, eventually grossing over $374&#160;million worldwide."	3	1	1
+Batman Begins	"It is for this reason Nolan believes other DC characters do not exist in the universe of his film; otherwise, Wayne's reasons for taking up costumed vigilantism would have been very different."	3	2	0
+Batman Begins	"It strays away from the lighter fare of Joel Schumacher's 1997 Batman film, Batman &amp; Robin, which contained camp one-liners throughout."	4	1	0
+Batman Begins	"It is the fourth-highest grossing Batman film, as of August 2012, behind Tim Burton's Batman, which grossed $411&#160;million worldwide and also being surpassed by its sequels The Dark Knight and The Dark Knight Rises, both of which have grossed over $1&#160;billion."	2	3	0
+Batman Begins	"It was released in more theaters, but sold fewer tickets than the other previous Batman movies, with the exception of Batman &amp; Robin."	1	4	0
+Batman Begins	"The film reboots the Batman film series, telling the origin story of the character from Bruce Wayne's initial fear of bats, the death of his parents, his journey to become Batman, and his fight against Ra's al Ghul's plot to destroy Gotham City."	3	2	0
+Batman Begins	"The film, which was primarily shot in Iceland and Chicago, relied on traditional stunts and miniatures – computer-generated imagery was used minimally."	1	3	1
+Batman Begins	The film received critical acclaim and has been considered by many as one of the best superhero films ever made.	2	3	0
+Batman Begins	"Critics noted that fear was a common motif throughout the film, and remarked that it had a darker tone compared with previous Batman films."	3	2	0
+Batman Begins	The film was nominated for an Academy Award for Best Cinematography and three BAFTA awards.	1	3	1
+Batman Begins	Goyer said that the goal of the film was to get the audience to care for both Batman and Bruce Wayne.	4	1	0
+Batman Begins	Goyer used the vacancy of Bruce Wayne's multi-year absence presented in Batman: Year One to help set up some of the film's events in the transpiring years.	3	2	0
+Batman Begins	"In addition, the film's Sergeant James Gordon was based on his comic book incarnation as seen in Year One."	3	2	0
+Batman Begins	He screened Blade Runner to cinematographer Wally Pfister and two others to show the attitude and style that he wanted to draw from the film.	3	2	0
+Batman Begins	The professional drivers for the Tumblers practiced driving the vehicles for six months before they drove on the streets of Chicago for the film's scenes.	2	2	1
+Batman Begins	"The film's ninety-piece orchestra was developed from members of various London orchestras, and Zimmer chose to use more than the normal number of cellos."	4	1	0
+Batman Begins	Zimmer enlisted a boy soprano to help reflect the music in some of the film's scenes where tragic memories of Bruce Wayne's parents are involved.	3	2	0
+Batman Begins	"Both composers collaborated to create 2 hours and 20 minutes worth of music for the film, with Zimmer composing the action sequences and Howard focusing on the dramatic scenes."	3	2	0
+Batman Begins	"Additionally, the film was a success with audiences who, when polled by CinemaScore, awarded the film an A grade."	5	0	0
+Batman Begins	The film depicts how fear can affect all creatures regardless of might.	4	1	0
+Batman Begins	The film received three nominations at the 59th British Academy Film Awards.	2	3	0
+Batman Begins	"The film was awarded three Saturn Awards in 2006 as well: Best Fantasy Film, Best Actor for Christian Bale, and Best Writing for Nolan and Goyer."	1	3	1
+Batman Begins	"Polled moviegoers rated the film with an A, and according to the studio's surveys, Batman Begins was considered the best of all the Batman films."	2	3	0
+Batman Begins	The film had brought in $167&#160;million in DVD sales by August 2006.	2	3	0
+Elf (film)	Elf (stylized as elf) is a 2003 American Christmas comedy film directed by Jon Favreau and written by David Berenbaum.	2	3	0
+Elf (film)	The movie inspired the 2010 broadway musical Elf: The Musical and NBC's 2014 animated television special Elf: Buddy's Musical Christmas.	2	3	0
+Elf (film)	"Apart from snow, most of the computer generated imagery (CGI) in the film was created by Rhythm &amp; Hues Studios."	3	2	0
+Elf (film)	The movie makes heavy use of forced perspective to make Buddy the Elf appear much larger than all the other elves.	2	3	0
+Elf (film)	Stop motion animation was also used.	4	1	0
+Elf (film)	Zooey Deschanel singing was not in the original script and Favreau added it when he learned she was a singer.	1	4	0
+Elf (film)	"Buddy belches for twelve seconds, after drinking a 2 liter bottle of Coca-Cola."	3	2	0
+Elf (film)	"The belch was real, as dubbed by voice actor Maurice LaMarche."	3	1	1
+Elf (film)	"Elf was not entirely shot in New York City; there are several scenes shot in Vancouver, at Coquitlam, British Columbia, at Riverview Hospital."	2	2	1
+Elf (film)	"Elf opened at number 2 at the US box office with $31.1 million, finishing behind The Matrix Revolutions, also in its first week."	3	1	1
+Elf (film)	"The film would go on to earn a total gross of over $220 million at the box office worldwide, greatly exceeding its production budget of $33 million."	3	1	1
+Elf (film)	The film received positive reviews from critics.	4	1	0
+Elf (film)	Roger Ebert gave the film 3/4 stars.	4	1	0
+Elf (film)	The film was nominated for 9 awards and won 2.	2	2	1
+Elf (film)	"Since its release, the film has joined the many holiday-themed films which air annually on television during the Christmas season."	3	2	0
+Elf (film)	A Broadway musical based upon the film ran on Broadway during the 2010 Christmas season.	3	2	0
+Elf (film)	"The musical officially opened at the Al Hirschfeld Theatre on November 10, 2010, after previews from November 2, 2010."	2	3	0
+Elf (film)	"The cast included Sebastian Arcelus as Buddy, Amy Spanger as Jovie, Beth Leavel as Emily, Mark Jacoby as Walter, Matthew Gumley as Michael, Valerie Wright as Deb, Michael McCormick as Mr. Greenway, Michael Mandell as Store Manager, and George Wendt as Santa."	3	2	0
+Elf (film)	The soundtrack was released on New Line Records in November 2003 in the USA and in October 2005 in the UK.	4	1	0
+Elf (film)	"The score to the film, composed and conducted by John Debney and performed by the Hollywood Studio Symphony, was released by Varese Sarabande."	3	2	0
+Elf (film)	"Elf is available on DVD, VHS, and Blu-ray, the latter of which was released on October 28, 2008."	3	2	0
+Elf (film)	Elf: Buddy's Musical Christmas is an hour-long stop-motion animated musical television special based on the 2003 film Elf and the Broadway musical of the same name.	2	3	0
+Elf (film)	"It stars Will Ferrell, James Caan, Bob Newhart, Ed Asner, and Zooey Deschanel."	4	1	0
+Elf (film)	"It was released in the United States on November 7, 2003 and grossed $220,443,451 worldwide."	3	1	1
+Elf (film)	"It was directed by Casey Nicholaw, with music by Matthew Sklar, lyrics by Chad Beguelin, and a book by Bob Martin and Thomas Meehan."	3	2	0
+Elf (film)	It is also available for the PlayStation Portable with Universal Media Disc.	2	3	0
+Elf (film)	"It stars Jim Parsons as Buddy, along with Mark Hamill as Walter, Kate Micucci as Jovie, Rachel McFarlane as Emily, and Gilbert Gottfried as Mr. Greenway."	4	1	0
+Elf (film)	"On Rotten Tomatoes, the film has a rating of 84%, based on 178 reviews, with an average rating of 7/10."	3	2	0
+Final Destination (film)	Final Destination is a 2000 American horror film directed by James Wong and the first installment of the Final Destination series.	2	3	0
+Final Destination (film)	"The film started off as a spec script written by Reddick an episode of The X-Files, in order for Reddick to get a TV agent."	2	3	0
+Final Destination (film)	The film received mixed reviews from critics.	4	1	0
+Final Destination (film)	"High school student Alex Browning boards Volée Airlines Flight 180 with his classmates and teachers for a field trip to Paris, France."	3	2	0
+Final Destination (film)	"Thirty-nine days later, the survivors, who mostly resent Alex, attend a memorial service for the victims."	4	1	0
+Final Destination (film)	"After watching a news report on the cause of the explosion, Alex concludes that the survivors are dying in the order they were meant to die on the plane and deduces that Ms. Lewton is next."	3	2	0
+Final Destination (film)	"Alex deduces that, since he intervened, Death skipped Carter and moved onto Billy, and realizes that he is next."	4	1	0
+Final Destination (film)	"Six months later, Alex, Clear and Carter arrive in Paris to celebrate their survival."	4	1	0
+Final Destination (film)	The original idea was written by Jeffrey Reddick as a spec script for The X-Files in order to get a TV agent.	2	3	0
+Final Destination (film)	"New Line Cinema bought Jeffrey's treatment and hired him to write the original draft of the script, which featured Death as an unseen force."	3	2	0
+Final Destination (film)	"Producers Craig Perry and Warren Zide from Zide/Perry Productions helped with the film's budget, because both were similarly fascinated about the idea of an invisible force executing its victims."	3	2	0
+Final Destination (film)	"Alex Browning, the last role cast, went to Canadian actor Devon Sawa, who previously starred in the 1999 film Idle Hands."	3	2	0
+Final Destination (film)	"Ali Larter, who starred in the 1999 film Varsity Blues, was cast as female lead Clear Rivers."	4	1	0
+Final Destination (film)	"Seann William Scott, famous for portraying Steve Stifler in the 1999 film American Pie, was hired as class clown Billy Hitchcock."	3	2	0
+Final Destination (film)	Dawson's Creek star Kerr Smith was cast as jock Carter Horton.	3	2	0
+Final Destination (film)	"Kristen Cloke, Morgan's wife, was cast as teacher Valerie Lewton."	4	1	0
+Final Destination (film)	"Newcomers Amanda Detmer and Chad E. Donella were cast as students Terry Chaney and Tod Waggner, respectively."	3	2	0
+Final Destination (film)	"Tony Todd, who played Candyman in the 1992 film Candyman, was cast as mortician William Bludworth."	4	1	0
+Final Destination (film)	Morgan initially wanted Todd for the role because he felt his deep voice would give the film an eerie tone.	3	2	0
+Final Destination (film)	"Additional cast members included Daniel Roebuck and Roger Guenveur Smith as FBI agents Agent Weine and Agent Schreck; Brendan Fehr, Christine Chatelain and Lisa Marie Caruk as students George Waggner, Blake Dreyer and Christa Marsh; Barbara Tyson and Robert Wisden as Barbara and Ken Browning, Alex' parents; and Forbes Angus as teacher Larry Murnau."	3	2	0
+Final Destination (film)	"With Final Destination cast, filming took place on Long Island for the plane scene and Vancouver Island for the additional scenes."	2	3	0
+Final Destination (film)	"Unfortunately, the cast members were filming other projects during production, so filming schedules had to be moved repeatedly in order for all of the cast to appear."	3	2	0
+Final Destination (film)	"Smith, who was a regular in Dawson's Creek, had to hold episodes for the film."	3	2	0
+Final Destination (film)	All death scenes were filmed using lifecasts of the actual actors.	1	3	1
+Final Destination (film)	"The death scenes, the memorial, the forest scene and the scenes in Paris were all filmed in Victoria."	2	3	0
+Final Destination (film)	Additional scenes were filmed in Toronto and San Francisco.	3	2	0
+Final Destination (film)	"For the airport, the crew used Vancouver International Airport as a stand-in for John F. Kennedy International Airport, the airport mentioned in the film."	2	3	0
+Final Destination (film)	The plan behind the scenes was to create an intriguing visual signature.	4	1	0
+Final Destination (film)	Skewing was also part of the overall design for the color palette used in set decoration and costume design.	4	1	0
+Final Destination (film)	The plane scene during which passengers die in mid-air was created inside a very large sound stage.	0	5	0
+Final Destination (film)	The three-ton hydraulic gimbal was operated automatically.	4	1	0
+Final Destination (film)	A miniature model of the Boeing 747 airplane was created for the explosion scene.	3	2	0
+Final Destination (film)	The train scene (in which Carter's car is smashed by the train) was one of the most difficult scenes to shoot.	3	2	0
+Final Destination (film)	"The car used for the crash was a replica of the original, severed in half prior to filming."	2	3	0
+Final Destination (film)	"For the death scenes, the crew used several lifecasts of the actors and chocolate syrup for fake blood."	1	3	1
+Final Destination (film)	No official album accompanied the motion picture.	2	3	0
+Final Destination (film)	"The song is heard either before an accident or a character's demise, and is also played by a street performer (Alessandro Juliani) in French."	3	2	0
+Final Destination (film)	"Final Destination: The Complete Original Motion Picture Score was released on March 17, 2000."	4	1	0
+Final Destination (film)	The film's score was conducted by Daytime Emmy Award-winning composer Shirley Walker.	3	2	0
+Final Destination (film)	"The score is mostly low-key, with the exception of the suspense and death scenes."	3	2	0
+Final Destination (film)	"It was performed by a union orchestra, obliging New Line Cinema to grant the film its own score."	2	3	0
+Final Destination (film)	The score was positively received by critics.	5	0	0
+Final Destination (film)	"The film premiered on March 17, 2000, in 2,587 theaters across the United States and Canada, earning $10,015,822 on its opening weekend, with an average of $3,871 per theater."	2	3	0
+Final Destination (film)	"Final Destination was released on DVD on September 26, 2000, in the United States and Canada."	4	1	0
+Final Destination (film)	"The DVD bonus features include three audio commentaries, three deleted scenes, and two documentaries."	3	2	0
+Final Destination (film)	"The first commentary features Wong, Morgan, Reddick, and editor James Coblentz describing the minute subtleties included by the creative team throughout the film, which either allude to death or foreshadow the deaths in the film invisible upon initial airing."	3	2	0
+Final Destination (film)	"The second commentary includes Sawa, Smith, Cloke, and Donella discussing what was involved in certain scenes and how they each were cast."	4	1	0
+Final Destination (film)	The third commentary is the isolated music score of Walker included in the film's score.	4	1	0
+Final Destination (film)	"Deleted scenes cover two subplots of Alex and Clear, an alternate ending where Alex dies after rescuing Clear from the live wires, Clear bearing a baby which she names Alex, and Clear and Carter finishing as the only survivors of the film."	3	2	0
+Final Destination (film)	"The first documentary entitled A Look at Test Screenings runs for 13 minutes and outlines the test screening process, giving an overview of how those screenings were conducted and scored."	3	2	0
+Final Destination (film)	The featurette shows video footage of the test screening audience and specific comments regarding why the deleted scenes were either cut or reshot.	2	3	0
+Final Destination (film)	"The second documentary, titled Premonitions, explores real-life intuitive investigator Pam Coronado, who has helped police solve many murders and missing person cases with her psychic abilities."	2	2	1
+Final Destination (film)	The film received mixed reviews from critics.	4	1	0
+Final Destination (film)	"In contrast, the film gathered positive reviews from top critics."	4	1	0
+Final Destination (film)	"The film had a major impact on the horror film audience, earning the Saturn Award for Best Horror Film in 2000."	3	1	1
+Final Destination (film)	"The film's concept was listed at No. 46 in Bravo's 100 Greatest Scary Moments, in which Smith represented the film."	2	3	0
+Final Destination (film)	"The Flight 180 explosion scene was included in the lists of best fictional plane crashes or disaster scenes by Break Studios, Unreality Magazine, New Movies.net,"	2	3	0
+Final Destination (film)	"It was released on March 17, 2000, Final Destination and became a financial success, making $10 million on its opening weekend."	2	2	1
+Final Destination (film)	It received the Saturn Award for Best Horror Film and Best Performance by a Younger Actor for Sawa's performance.	1	3	1
+Final Destination (film)	"The film stars Devon Sawa, Ali Larter, Kerr Smith, and Tony Todd."	3	2	0
+Final Destination (film)	"Later, Wong and Morgan, The X-Files writing partners, became interested in the script and agreed to rewrite and direct the film, marking Wong's film directing debut."	3	2	0
+Final Destination (film)	"The DVD release of the film, released on September 26, 2000, in the United States and Canada, includes commentaries, deleted scenes, and documentaries."	3	2	0
+Final Destination (film)	"The film's success spawned a media franchise, encompassing four installments, as well as a series of novels and comic books."	2	3	0
+Final Destination (film)	New Line Cinema accepted financing and distributing rights for the film after Reddick came to them personally.	4	1	0
+Final Destination (film)	"The model, one of the most detailed miniature scenes in the film, was about 10 feet long and 7 feet wide, and the landing gear was made from all machined metals."	2	3	0
+Final Destination (film)	Wong and Morgan initially wanted Walker to score the film after having previously worked with her on their sci-fi television series Space: Above and Beyond.	3	2	0
+Final Destination (film)	"The film remained at No. 3 during the second weekend, before dropping to No. 7 on its third weekend."	1	4	0
+Final Destination (film)	"The film lasted in theaters for 22 weekends, its last screening airing in 105 theaters and grossing $52,675, placing at No. 56."	4	1	0
+Final Destination (film)	They also discuss how the film was made and how they fought the executives of New Line Cinema over various factors.	3	2	0
+Final Destination (film)	Some DVDs contain two non DVD-ROM games—Death Clock and Psychic Test—in addition to the film's theatrical trailer and filmographies of the cast and crew.	1	4	0
+Final Destination (film)	"Review aggregator website Rotten Tomatoes reported 33% of critics gave the film positive write-ups based on 93 reviews, with an average rating of 4.7/10."	3	2	0
+Final Destination (film)	"At Metacritic, which assigns a normalized rating out of 100 to reviews from mainstream critics, the film holds a mixed/average score of 36 based on 28 reviews."	3	2	0
+Gravity (film)	"Gravity is a 2013 science fiction thriller film directed, co-written, and produced by Alfonso Cuarón."	2	3	0
+Gravity (film)	Cuarón wrote the screenplay with his son Jonás and attempted to develop the film at Universal Pictures.	3	2	0
+Gravity (film)	"The rights were sold to Warner Bros. Pictures, where the project eventually found traction."	2	3	0
+Gravity (film)	Gravity opened the 70th Venice International Film Festival on 28 August 2013 and had its North American premiere three days later at the Telluride Film Festival.	3	2	0
+Gravity (film)	"At the 86th Academy Awards, Gravity received a leading ten nominations—tying with American Hustle (2013)—and won seven, the most for the ceremony, including Best Director for Cuarón, Best Cinematography for Lubezki, Best Visual Effects, and Best Original Score for Price."	0	5	0
+Gravity (film)	Alfonso Cuarón wrote the screenplay with his son Jonás.	4	1	0
+Gravity (film)	"In March, Robert Downey, Jr. entered discussions to be cast in the male lead role."	4	1	0
+Gravity (film)	"In mid-2010, Marion Cotillard attended a screen test for the female lead role."	4	1	0
+Gravity (film)	The problem of shooting long scenes in a zero-g environment was a challenge.	3	2	0
+Gravity (film)	"Eventually, the team decided to use computer-generated imagery for the spacewalk scenes and automotive robots to move Bullock's character for interior space station scenes."	2	3	0
+Gravity (film)	"Made on a production budget of $100 million, Gravity was filmed digitally on multiple Arri Alexa cameras."	4	1	0
+Gravity (film)	Principal photography began in late May 2011.	4	1	0
+Gravity (film)	CG elements were shot at Pinewood and Shepperton Studios in the United Kingdom.	3	1	1
+Gravity (film)	"The landing scene was filmed at Lake Powell, Arizona—where the astronauts' landing scene in Planet of the Apes (1968) was also filmed."	0	4	1
+Gravity (film)	"Visual effects were supervised by Tim Webber at the London-based VFX company Framestore, which was responsible for creating most of the film's visual effects—except for 17 shots."	3	2	0
+Gravity (film)	"Framestore was also heavily involved in the art direction and, along with The Third Floor, the previsualization."	4	1	0
+Gravity (film)	Filming began in London in May 2011.	5	0	0
+Gravity (film)	The film contains 156 shots with an average length of 45 seconds—fewer and longer shots than in most films of this length.	1	3	1
+Gravity (film)	"Although the first trailer had audible explosions and other sounds, these scenes are silent in the finished film."	0	4	1
+Gravity (film)	"For most of Bullock's shots, she was placed inside a giant, mechanical rig."	0	5	0
+Gravity (film)	"Despite being set in space, the film uses motifs from shipwreck and wilderness survival stories about psychological change and resilience in the aftermath of catastrophe."	3	2	0
+Gravity (film)	"Cuarón uses the character, Stone, to illustrate clarity of mind, persistence, training, and improvisation in the face of isolation and the consequences of a relentless Murphy's law."	3	2	0
+Gravity (film)	"The impact of scenes is heightened by alternating between objective and subjective perspectives, the warm face of the Earth and the depths of dark space, the chaos and predictability of the debris field, and silence of the vacuum of space with the background score giving the desired effect."	2	3	0
+Gravity (film)	"The film uses very long, uninterrupted shots throughout to draw the audience into the action but contrasts these with claustrophobic shots within space suits and capsules."	2	3	0
+Gravity (film)	Some commentators have noted religious themes in the film.	3	2	0
+Gravity (film)	"For instance, Fr."	4	1	0
+Gravity (film)	Robert Barron in The Catholic Register summarizes the tension between Gravity's technology and religious symbolism.	3	2	0
+Gravity (film)	"The film also suggests themes of humanity's ubiquitous strategy of existential resilience; that, across cultures, individuals must postulate meaning, beyond material existence, wherever none can be perceived."	3	2	0
+Gravity (film)	Human evolution and the resilience of life may also be seen as key themes of Gravity.	4	1	0
+Gravity (film)	Steven Price composed the incidental music for Gravity.	3	2	0
+Gravity (film)	"In early September 2013, a 23-minute preview of the soundtrack was released online."	3	2	0
+Gravity (film)	"A soundtrack album was released digitally on September 17, 2013, and in physical formats on October 1, 2013, by WaterTower Music."	2	3	0
+Gravity (film)	Songs featured in the film include:	4	1	0
+Gravity (film)	"In most of the film's official trailers, Spiegel im Spiegel, written by Estonian composer Arvo Pärt in 1978, was used."	3	2	0
+Gravity (film)	"Gravity had its world premiere at the 70th Venice International Film Festival on August 28, 2013, and had its North American premiere three days later at the Telluride Film Festival."	3	1	1
+Gravity (film)	Preliminary reports predicted the film would open with takings of over $10 million in North America.	4	1	0
+Gravity (film)	The film stayed at number one at the box office during its second and third weekends.	2	3	0
+Gravity (film)	"Cuarón shows things that cannot be but, miraculously, are, in the fearful, beautiful reality of the space world above our world."	4	1	0
+Gravity (film)	"Gravity was met with nearly universal acclaim from critics who praised the acting (especially Sandra Bullock's performance), direction, screenplay, cinematography, visual effects, production design, the use of 3D, and Steven Price's musical score."	3	2	0
+Gravity (film)	Some critics have compared Gravity with other notable films set in space.	4	1	0
+Gravity (film)	Lindsey Weber of Vulture.com said the choice of Ed Harris for the voice of Mission Control is a reference to Apollo 13.	1	4	0
+Gravity (film)	Gravity received ten nominations at the 86th Academy Awards; together with American Hustle it received the greatest number of nominations for the 2014 ceremony.	2	2	1
+Gravity (film)	"These included Best Picture, Best Actress for Bullock, and Best Production Design."	3	2	0
+Gravity (film)	"The film won the most of the night with seven Academy Awards: for Best Director, Best Cinematography, Best Visual Effects, Best Film Editing, Best Original Score, Best Sound Editing, and Best Sound Mixing."	2	2	1
+Gravity (film)	"Alfonso Cuarón won the Golden Globe Award for Best Director, and the film was also nominated for Best Motion Picture – Drama, Best Actress – Drama for Bullock and Best Original Score."	2	2	1
+Gravity (film)	"Gravity received eleven nominations at the 67th British Academy Film Awards, more than any other film of 2013."	0	5	0
+Gravity (film)	"Gravity also won the 2014 Hugo Award for Best Dramatic Presentation, Long Form."	3	1	1
+Gravity (film)	"Indian Prime Minister Narendra Modi while praising the cost-effective nature of Indian space programme, observed that the country's Mars Orbiter Mission had cost less than the film's production budget."	1	4	0
+Gravity (film)	"Gravity was released on digital download on February 11, 2014, and was released on DVD, Blu-ray and Blu-ray 3D on February 25, 2014, in the United States and on March 3, 2014, in the United Kingdom."	3	2	0
+Gravity (film)	"As of March 16, 2014, Gravity has sold 908,756 DVDs along with 957,355 Blu-ray discs for $16,465,600 and $22,183,843 respectively for a total of $38,649,443."	4	1	0
+Gravity (film)	Gravity was also offered for free in HD on Google Play and Nexus devices in late October 2014 to early November 2014.	2	2	1
+Gravity (film)	Cuarón has stated that Gravity is not always scientifically accurate and that some liberties were needed to sustain the story.	4	1	0
+Gravity (film)	Examples of differences from reality include:	4	1	0
+Gravity (film)	"Despite the inaccuracies in Gravity, Tyson, Plait and Parazynski said they enjoyed watching the film."	3	2	0
+Gravity (film)	"It stars Sandra Bullock and George Clooney as astronauts, and sees them stranded in space after the mid-orbit destruction of their space shuttle and their subsequent attempt to return to Earth."	3	2	0
+Gravity (film)	It was released to cinemas in the United States and Canada on 4 October 2013.	4	1	0
+Gravity (film)	"It has grossed more than US$716 million worldwide, making it the eighth-highest-grossing film of 2013."	3	2	0
+Gravity (film)	It also made the production period much longer than expected.	4	1	0
+Gravity (film)	"It was released in the USA in 3D and IMAX 3D on October 4, 2013 and in the UK on November 8, 2013."	3	1	1
+Gravity (film)	It thrills on so many levels.	5	0	0
+Gravity (film)	"Its nominations included Best Film, Outstanding British Film, Best Director, Best Original Screenplay, and Best Actress in a Leading Role."	1	2	2
+Gravity (film)	"It won the awards for Outstanding British Film, Best Direction, Best Original Music, Best Cinematography, Best Sound, and Best Visual Effects."	1	3	1
+Gravity (film)	It is a piece of fiction.	4	1	0
+Gravity (film)	"David Heyman, who previously worked with Cuarón on Harry Potter and the Prisoner of Azkaban (2004), produced the film with him."	2	3	0
+Gravity (film)	"Gravity was produced entirely in the UK, where the British visual effects company Framestore spent more than three years creating most of the film's visual effects, which comprise over 80 of its 91 minutes."	0	5	0
+Gravity (film)	"The film was met with near-universal acclaim from critics, who praised Emmanuel Lubezki's cinematography, Steven Price's musical score, Cuarón's direction, Bullock's performance and Framestore's visual effects."	3	2	0
+Gravity (film)	"The film was also awarded six BAFTA Awards, including Outstanding British Film and Best Director, the Golden Globe Award for Best Director, and seven Critics Choice Awards."	1	3	1
+Gravity (film)	"In 2010, Angelina Jolie, who had rejected a sequel to Wanted (2008), was in contact with Warner Bros. to star in the film."	4	1	0
+Gravity (film)	"Scheduling conflicts involving Jolie's Bosnian war film In the Land of Blood and Honey (2011), and a possible Salt (2009) sequel led Jolie to exit her involvement with Gravity, leaving Warner Bros. with doubts that the film would get made."	2	3	0
+Gravity (film)	"When the script was finalized, Cuarón assumed it would take about a year to complete the film, but it took four and a half years."	1	3	1
+Gravity (film)	The soundtrack in the film's space scenes consists of the musical score and sounds astronauts would hear in their suits or in the space vehicles.	3	2	0
+Gravity (film)	"The final scene, which takes place on Earth, was shot on an Arri 765 camera using 65mm film to provide the sequence with a visual contrast to the rest of the film."	3	2	0
+Gravity (film)	"The film incorporates spiritual or existential themes, in the facts of Stone's daughter's accidental and meaningless death, and in the necessity of summoning the will to survive in the face of overwhelming odds, without future certainties, and with the impossibility of rescue from personal dissolution without finding this willpower."	3	2	0
+Gravity (film)	"The film opens with the exploration of space—the climax of human civilization, and ends with an allegory of the dawn of mankind when Dr. Ryan Stone fights her way out of the water after the crash-landing, passing an amphibian, grabs the soil and slowly regains her capacity to stand upright and walk."	4	1	0
+Gravity (film)	"The film's US release coincided with the beginning of World Space Week, which was observed from October 4 to 10."	2	3	0
+Gravity (film)	"The film was originally scheduled to be released in the US on November 21, 2012, before being re-scheduled for a 2013 release to allow the completion of extensive post-production work."	3	2	0
+Gravity (film)	"The film earned $1.4 million from its Thursday night showings, and reached $17.5 million on Friday."	4	0	1
+Gravity (film)	"80 percent of the film's opening weekend gross came from its 3D showings, which grossed $44 million."	3	1	1
+Gravity (film)	"The film's largest markets outside North America were China ($71.2m), the United Kingdom ($47.0m) and France ($38.2m)."	2	2	1
+Gravity (film)	"On February 17, 2014, the film grossed $700m worldwide."	3	1	1
+Gravity (film)	"If the film past is dead, Gravity shows us the glory of cinema's future."	3	2	0
+Gravity (film)	"Empire, Time, and Total Film ranked the film as the best of 2013."	3	2	0
+Gravity (film)	"The film has been praised for the realism of its premises and its overall adherence to physical principles, despite several inaccuracies and exaggerations."	3	2	0
+Gravity (film)	"Aldrin said he hoped that the film would stimulate the public to find an interest in space again, after decades of diminishing investments into advancements in the field."	3	2	0
+Her (film)	"Her is a 2013 American science fiction romantic comedy-drama film written, directed, and produced by Spike Jonze."	3	2	0
+Her (film)	"Jonze conceived the idea in the early 2000s after reading an article about Cleverbot, a web application that uses an artificial intelligence algorithm to have conversations with humans."	1	3	1
+Her (film)	"Her premiered at the 2013 New York Film Festival on October 12, 2013."	3	2	0
+Her (film)	Warner Bros. Pictures initially provided a limited release for Her at six theaters on December 18.	2	3	0
+Her (film)	"Jonze took five months to write the first draft of the script, his solo screenwriting debut."	3	2	0
+Her (film)	The idea of the film initially came to Jonze in the early 2000s when he read an article online about Cleverbot that explained instant messaging with artificial intelligence.	3	2	0
+Her (film)	Principal photography on Her took place during the summer of 2012.	4	1	0
+Her (film)	"Jonze enlisted Eric Zumbrunnen and Jeff Buchanan to edit the film, both of whom had collaborated with Jonze on past projects."	4	1	0
+Her (film)	"Her was chosen as the closing film of the 51st New York Film Festival, and had its world premiere on October 12, 2013."	2	3	0
+Her (film)	Her received widespread critical acclaim.	4	1	0
+Her (film)	"The film was praised for its direction, screenplay, production design, score, Joaquin Phoenix's performance and Scarlett Johansson's vocal portrayal of Samantha."	3	2	0
+Her (film)	"Opening December 22, at 6 theatres the film earned $258,000, and earned over $3 million while on limited release, before expanding to a wide release of 1,729 theaters, on January 10."	1	4	0
+Her (film)	Her has earned various awards and nominations with particular praise for Jonze's screenplay.	3	2	0
+Her (film)	"Her was released by Warner Home Video on Blu-ray Disc and DVD on May 13, 2014."	4	1	0
+Her (film)	It marks Jonze's solo screenwriting debut.	3	2	0
+Her (film)	"It was later given a wide release at over 1,700 theaters in the United States and Canada on January 10, 2014."	1	3	1
+Her (film)	"It was nominated for five Academy Awards, including Best Picture, and won the award for Best Original Screenplay."	2	3	0
+Her (film)	It was mainly filmed in Los Angeles with two weeks in Shanghai.	4	1	0
+Her (film)	It was also in competition during the 8th edition of Rome International Film Festival.	4	1	0
+Her (film)	"The film's musical score was composed by Arcade Fire, with the cinematography provided by Hoyte van Hoytema."	3	2	0
+Her (film)	"The film follows Theodore Twombly (Joaquin Phoenix), a man who develops a relationship with Samantha (Scarlett Johansson), an intelligent computer operating system personified through a female voice."	4	1	0
+Her (film)	"The film also stars Amy Adams, Rooney Mara, and Olivia Wilde."	4	1	0
+Her (film)	"The film received numerous awards and nominations, primarily for Jonze's screenplay."	3	2	0
+Her (film)	One of the first actors he envisioned for the film was Joaquin Phoenix.	4	1	0
+Her (film)	Carey Mulligan entered negotiations to star in the film.	4	1	0
+Her (film)	"The film was edited over the course of 14 months, which accounts for the replacement of Morton with Johansson."	4	1	0
+Her (film)	"Steven Soderbergh became involved in the film when Jonze's original cut ran over 150 minutes, and brought it to 90 minutes."	2	3	0
+Her (film)	This was not the final version of the film but it allowed Jonze to remove unnecessary plots.	4	1	0
+Her (film)	"The film was set to have a limited release in North America on November 20, 2013 through Warner Bros. It was later pushed back to a limited December 18, 2013 release with a January 10, 2014 wide release in order to accommodate an awards campaign."	2	3	0
+Her (film)	"The film ended up earning $25,568,251 domestically and $21,783,000 internationally for a total of $47,351,251, more than double its $23 million production budget."	3	1	1
+Her (film)	"At the 86th Academy Awards, the film was nominated in five categories, including Best Picture, with Jonze winning for Best Original Screenplay."	1	3	1
+Her (film)	"At 71st Golden Globe Awards, the film garnered three nominations, going on to win Best Screenplay for Jonze."	2	3	0
+Her (film)	"Her also won Best Film and Best Director for Jonze at the National Board of Review Awards, and the American Film Institute included the film in its list of the top ten films of 2013."	1	4	0
+Interstellar (film)	"Interstellar is a 2014 science-fiction film directed by Christopher Nolan, starring Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, Mackenzie Foy, John Lithgow, Michael Caine and Matt Damon."	2	3	0
+Interstellar (film)	"Warner Bros., Paramount Pictures, and Legendary Pictures co-financed the film, while Syncopy and Lynda Obst Productions served as production companies."	3	2	0
+Interstellar (film)	"Interstellar premiered on October 26, 2014, in Los Angeles."	3	2	0
+Interstellar (film)	"In North America, it was released in film stock to theaters still equipped to project the format, before expanding to venues using digital projectors."	3	1	1
+Interstellar (film)	"The premise for Interstellar was conceived by film producer Lynda Obst and theoretical physicist Kip Thorne, who collaborated on the 1997 film Contact and had known each other since Carl Sagan once set them up on a blind date."	2	3	0
+Interstellar (film)	"Spielberg moved his production company DreamWorks in 2009 from Paramount to The Walt Disney Company, and Paramount needed a new director for Interstellar."	3	2	0
+Interstellar (film)	"Jonathan Nolan recommended his brother Christopher, who joined the project in 2012."	4	1	0
+Interstellar (film)	"Though Paramount and Warner Bros. are traditionally rival studios, Warner Bros., who released Nolan's Batman films and works with Nolan's Syncopy, sought a stake in Nolan's production of Interstellar for Paramount."	1	4	0
+Interstellar (film)	"Screenwriter Jonathan Nolan was hired by Spielberg to write a script for Interstellar, and he worked on it for four years."	1	4	0
+Interstellar (film)	"Director Christopher Nolan said he became interested in casting Matthew McConaughey after seeing him in an early cut of the 2012 film Mud, which he had an opportunity to see since he was friends with one of its producers, Aaron Ryder."	3	2	0
+Interstellar (film)	Actor Irrfan Khan said that he declined a role since he wanted to be in India for the releases of The Lunchbox and D-Day.	1	4	0
+Interstellar (film)	"Actor Siddharth claimed that he auditioned for the film, but was not cast due to failing a screen test."	3	2	0
+Interstellar (film)	Matt Damon was cast in late August 2013 in a supporting role and filmed his scenes in Iceland.	3	2	0
+Interstellar (film)	Nolan filmed Interstellar with anamorphic 35mm and IMAX film photography.	3	2	0
+Interstellar (film)	"Nolan, who is known to keep details of his productions secret, strove to ensure secrecy for Interstellar."	3	2	0
+Interstellar (film)	"As one security measure, Interstellar was filmed under the name Flora's Letter, Flora being one of Nolan's four children with producer Emma Thomas."	1	4	0
+Interstellar (film)	The film's principal photography was scheduled to last for four months.	5	0	0
+Interstellar (film)	"Filming also took place in Iceland, where Nolan had previously filmed scenes for his 2005 film Batman Begins."	2	3	0
+Interstellar (film)	"The crew transported mock spaceships weighing approximately 10,000 pounds (4,500&#160;kg) to the country, which was chosen to represent two extraterrestrial planets: one covered in ice, and one covered in water."	2	3	0
+Interstellar (film)	"After the Iceland shoot, the crew moved to Los Angeles to film for 54 days."	4	1	0
+Interstellar (film)	Filming in California was relatively unusual since California's tax credit was not available for films with a budget greater than $75 million.	2	2	1
+Interstellar (film)	"Filming locations included the Westin Bonaventure Hotel and Suites, the Los Angeles Convention Center, a Sony Pictures soundstage in Culver City, and a private residence in Altadena."	3	2	0
+Interstellar (film)	"Filming concluded in December 2013, and Nolan started editing the film for its release in 2014."	4	1	0
+Interstellar (film)	"Production completed with a budget of $165 million, $10 million less than what was allotted by Paramount, Warner Bros., and Legendary Pictures."	3	2	0
+Interstellar (film)	"Interstellar features three spacecraft: the Ranger, the Endurance, and the Lander."	3	2	0
+Interstellar (film)	"The film also features two robots, CASE and TARS."	4	1	0
+Interstellar (film)	"Sound engineers Gregg Landaker and Gary Rizzo mixed the sound for Interstellar, supervised by sound editor Richard King."	4	1	0
+Interstellar (film)	Christopher Nolan said he sought to mix the film's sound to take maximum advantage of current sound equipment in theaters.	3	2	0
+Interstellar (film)	"Composer Hans Zimmer, who scored Nolan's Batman film trilogy, also scored Interstellar."	3	2	0
+Interstellar (film)	"The critical response to Zimmer's efforts was generally quite positive, many stating that the score was some of Zimmer's finest work to date."	3	2	0
+Interstellar (film)	"The visual effects company Double Negative, which developed effects for Nolan's 2010 film Inception, worked on Interstellar."	3	2	0
+Interstellar (film)	"The Ranger, Endurance, and Lander spacecraft were created using miniature effects by production designer Nathan Crowley in collaboration with effects company New Deal Studios, as opposed to using computer generated imagery, as Nolan felt they offered the best way to give the ships a tangible presence in space."	2	3	0
+Interstellar (film)	"Nolan compared Interstellar to The Treasure of the Sierra Madre (1948), as a film about human nature."	3	2	0
+Interstellar (film)	The setting of the farm in the Midwest was inspired by Clark Kent's upbringing in Man of Steel.	2	3	0
+Interstellar (film)	"Outside of films, Nolan drew inspiration from the architecture of Ludwig Mies van der Rohe."	4	1	0
+Interstellar (film)	"Theoretical physicist Kip Thorne was a scientific consultant for the film, to ensure the depictions of wormholes and relativity were as accurate as possible."	3	2	0
+Interstellar (film)	"In creating the wormhole and a supermassive rotating black hole (which possesses an ergosphere, as opposed to a non-rotating black hole), Thorne collaborated with visual effects supervisor Paul Franklin and a team of 30 computer effects artists at Double Negative."	3	2	0
+Interstellar (film)	Christopher Nolan was initially concerned that a scientifically accurate depiction of a black hole would not be visually comprehensible to an audience and would require the effects team to unrealistically alter its appearance.	3	2	0
+Interstellar (film)	The portrayal of what a wormhole would look like is considered scientifically correct.	3	2	0
+Interstellar (film)	"Rather than a two-dimensional hole in space, it is depicted as a sphere, showing a distorted view of the target galaxy."	4	1	0
+Interstellar (film)	Nolan accepted these terms as long as they did not get in the way of the making of the movie.	4	1	0
+Interstellar (film)	Astrobiologist David Grinspoon points out that even with a voracious blight it would have taken millions of years to draw down the atmosphere's content of oxygen.	2	3	0
+Interstellar (film)	Neil deGrasse Tyson has explored the science behind the ending of Interstellar.	4	1	0
+Interstellar (film)	"The teaser trailer for Interstellar debuted December 14, 2013 and featured clips related to space exploration, accompanied by a voiceover by Matthew McConaughey's character of Cooper."	3	2	0
+Interstellar (film)	"The theatrical trailer debuted May 5, 2014 at the Lockheed Martin IMAX Theater at the National Air and Space Museum in Washington, D.C."	2	2	1
+Interstellar (film)	"It was made available online later that month, and for the week ending May 19 it was the most-viewed movie trailer, with over 19.5 million views on YouTube."	2	3	0
+Interstellar (film)	Christopher Nolan and McConaughey made their first appearances at Comic-Con in July 2014 to promote Interstellar.	4	1	0
+Interstellar (film)	"By October 2014, Paramount partnered with Google to promote Interstellar across multiple platforms."	1	3	1
+Interstellar (film)	Paramount is providing a virtual reality walkthrough of the Endurance spacecraft using Oculus Rift technology.	1	2	2
+Interstellar (film)	"On November 18, 2014 Wired released a tie-in online comic titled Absolute Zero, written by Christopher Nolan and drawn by Sean Gordon Murphy."	3	2	0
+Interstellar (film)	"Prior to Interstellar '​s public release, Paramount CEO Brad Grey hosted a private screening on October 19, 2014 at an IMAX theater in Lincoln Square, Manhattan."	3	2	0
+Interstellar (film)	"Paramount imposed a review embargo for the advance screenings until October 27, 2014."	4	1	0
+Interstellar (film)	"In North America, Interstellar and Big Hero 6 opened the same weekend (November 7–9, 2014)."	3	2	0
+Interstellar (film)	Both were forecast to earn between $55 million and $60 million.	4	1	0
+Interstellar (film)	"Interstellar was released early on November 4 at the Museum of Science &amp; Industry IMAX Dome theater, and had a limited release in North America (United States and Canada) on November 5, 2014 and a wide release on November 7, 2014."	2	3	0
+Interstellar (film)	Interstellar is an exception to Paramount Pictures' goal to stop releasing films on film stock and to distribute them only in digital format.	0	5	0
+Interstellar (film)	"According to The Hollywood Reporter, the initiative to project Interstellar from film would help preserve an endangered format, an initiative supported by Christopher Nolan, J. J. Abrams, Quentin Tarantino, Judd Apatow, Paul Thomas Anderson, and other filmmakers."	3	2	0
+Interstellar (film)	"As of December 26, 2014, Interstellar has grossed $175,407,000 in the United States and Canada and $464,000,000 in other territories for a worldwide total of $639,407,000."	2	2	1
+Interstellar (film)	The film had a worldwide opening of $132.6 million which is the tenth largest opening of 2014.	2	2	1
+Interstellar (film)	"In North America, the film is the 11th highest-grossing film that never hit #1, the top 5 or top 10."	3	2	0
+Interstellar (film)	"Interstellar had an early limited release in the United States and Canada in selected theatres on November 4, 2014 at 8:00 pm, coinciding with the 2014 US midterm elections."	3	2	0
+Interstellar (film)	"In its opening weekend the film earned $47,510,360[nb  from 3,561 theatres ($13,342 per theatre) debuting in second place after a neck-and-neck competition with Disney's Big Hero 6 ($56.2 million)."	3	2	0
+Interstellar (film)	The film was released in France and Belgium on November 5 and accounted 50% of the marketshare of the top five films in the two territories.	3	1	1
+Interstellar (film)	"In its opening weekend Interstellar earned $82.9 million from 11.1 admissions on over 14,800 screens in 62 markets."	3	2	0
+Interstellar (film)	"In its second weekend, the film earned $76 million and retained the No. 1 spot for a two weekend international total of $224.1 million."	2	2	1
+Interstellar (film)	Interstellar received generally positive reviews from critics.	4	1	0
+Interstellar (film)	"David Stratton of At the Movies rated the film four and a half stars out of five, praising the film's ambition, effects and 70mm IMAX presentation, though critiquing the sound for being so loud as to make some of the dialogue inaudible, drawing parallels to Gravity and 2001: A Space Odyssey for its mix of technical accomplishment and metaphysical themes."	3	2	0
+Interstellar (film)	There is a fallen angel named Dr.	4	1	0
+Interstellar (film)	Mann who turns satanic in an inverse Garden of Eden.	4	1	0
+Interstellar (film)	The space project is named Lazarus.	3	2	0
+Interstellar (film)	The heroine saves the world at age 33.	4	1	0
+Interstellar (film)	Rubban Shakeel of Films with Rubban called the cinematography as the true hero of the film.	3	2	0
+Interstellar (film)	"Interstellar was nominated for Original Score for the Hollywood Music in Media Awards, contending with six other films."	3	2	0
+Interstellar (film)	The advisory board received a five-minute trailer for the film that included Hans Zimmer's music.	3	2	0
+Interstellar (film)	"It has been a box office success and has received generally positive reviews from critics, who gave particular attention to the film's scientific accuracy, musical score, visual effects, and performances, particularly from McConaughey, Foy, Irwin and Chastain."	5	0	0
+Interstellar (film)	It is among the most critically acclaimed movies of 2014.	4	1	0
+Interstellar (film)	"It began on August 6, 2013, in the province of Alberta, Canada."	4	1	0
+Interstellar (film)	It's really like a submarine in space.	4	1	0
+Interstellar (film)	It's based on mathematics.	4	1	0
+Interstellar (film)	It's going to tell you the fable at the center of the story.	4	1	0
+Interstellar (film)	It reported that online users uncovered a star chart related to the Apollo 11 moon landing.	4	1	0
+Interstellar (film)	"It also provided navigation of film-related content across Google platforms, collected feedback from film audiences, and linked to a mobile app."	4	1	0
+Interstellar (film)	"It hosted the walkthrough sequentially in four theaters, in New York City, Houston, Los Angeles, and Washington, D.C., from October 6 through November 19, 2014."	3	2	0
+Interstellar (film)	"It premiered in Europe on October 29, 2014 at Leicester Square in London."	4	1	0
+Interstellar (film)	It said Interstellar would appeal to men while Big Hero 6 would appeal to families.	2	3	0
+Interstellar (film)	"It reached a milestone of $200 million in 6 days, $300 million in 10 days, $400 million in 17 days $500 million in 24 days and $600 million in 37 days."	0	4	1
+Interstellar (film)	"It is Nolan's first film to not debut at number one since 2002, when Insomnia debuted at number two."	2	3	0
+Interstellar (film)	It earned $7.4 million from IMAX theatres from 368 screens in its second weekend.	3	1	1
+Interstellar (film)	"It earned $7.2 million from 206 IMAX screens, at an average of 35,000 per theatre."	4	1	0
+Interstellar (film)	"It went on to earn $41.7 million in its opening weekend, accounting 55% of the market shares."	3	1	1
+Interstellar (film)	"It is Nolan's biggest opening in China, Warner Bros' biggest 2D opening and the studio's second biggest opening of all time behind Pacific Rim ($45.2 million)."	2	2	1
+Interstellar (film)	It earned $12.4 million from IMAX which is down 10%.	4	1	0
+Interstellar (film)	It also passed the $300 million mark in its second weekend earning $321.9 million worldwide.	3	1	1
+Interstellar (film)	The film features a crew of astronauts who travel through a wormhole in search of a new home for humanity.	3	2	0
+Interstellar (film)	"Brothers Christopher and Jonathan Nolan wrote the film, merging a script Jonathan developed in 2007 with Christopher's ideas."	3	2	0
+Interstellar (film)	"Christopher Nolan produced the film with his wife, Emma Thomas, and Lynda Obst."	2	3	0
+Interstellar (film)	"Theoretical physicist Kip Thorne, whose work inspired the film, acted as scientific consultant and executive producer."	3	2	0
+Interstellar (film)	Nolan hired cinematographer Hoyte van Hoytema and shot the film on anamorphic 35 mm and IMAX 70 mm photography.	3	2	0
+Interstellar (film)	"The film features an extensive use of practical and miniature effects, while Double Negative created additional digital effects."	3	2	0
+Interstellar (film)	"It has been a box office success and has received generally positive reviews from critics, who gave particular attention to the film's scientific accuracy, musical score, visual effects, and performances, particularly from McConaughey, Foy, Irwin and Chastain."	5	0	0
+Interstellar (film)	"The film began development in June 2006, when Spielberg and Paramount Pictures announced plans for a science fiction film based on an eight-page treatment written by Obst and Thorne."	3	2	0
+Interstellar (film)	"By March 2007, Jonathan Nolan was hired to write a screenplay for the film, titled Interstellar."	2	3	0
+Interstellar (film)	"To research for the film, Nolan visited NASA as well as the private space program SpaceX."	2	3	0
+Interstellar (film)	"In August 2013, Legendary Pictures finalized an agreement with Warner Bros. to finance approximately 25 percent of the film's production."	3	1	1
+Interstellar (film)	Paramount announced in April 2013 that both actors were cast in the film's starring roles.	3	2	0
+Interstellar (film)	Some of the film's sequences were shot with an IMAX camera installed in the nosecone of a Learjet.	3	2	0
+Interstellar (film)	"Actor Bill Irwin voiced and physically controlled both robots, but his image was digitally removed from the film and his voicing for CASE was replaced."	1	4	0
+Interstellar (film)	"Visual effects supervisor Paul Franklin said the number of effects in the film was not much greater than in Nolan's The Dark Knight Rises or Inception, but that for Interstellar, they created the effects first, so that digital projectors could be used to display them behind the actors, rather than having the actors perform in front of green screens."	1	3	1
+Interstellar (film)	He also notes that the ice clouds should have been pulled down by gravity and the planet orbiting the black hole had sunlight in the film when it should not.	3	2	0
+Interstellar (film)	"The studio began airing TV spots for the film at the end of September 2014, expanding the early focus on McConaughey, who the Los Angeles Times said had high visibility to the public after winning an Academy Award for Dallas Buyers Club and for an acclaimed performance on the TV series True Detective."	3	2	0
+Interstellar (film)	The pair participated in a brief discussion and screened a new trailer of the film.	3	2	0
+Interstellar (film)	The film's website was relaunched to be a digital hub hosted on a Google domain.	3	2	0
+Interstellar (film)	"The website debuted the film's final trailer, and allowed visitors to navigate theater locations and schedules to help them plan to see Interstellar in certain formats."	2	3	0
+Interstellar (film)	"Through the partnership, the cast of Interstellar will also talk about the film through the video chat platform Google Hangouts."	2	3	0
+Interstellar (film)	The initiative Google for Education will also use the film as a basis for promoting lesson plans for math science in schools around the United States.	3	2	0
+Interstellar (film)	"The publisher Running Press released Interstellar: Beyond Time and Space, a book by Mark Cotta Vaz about the making of the film, on November 11, 2014."	2	2	1
+Interstellar (film)	The comic serves as a prequel to the film following Mann.	4	1	0
+Interstellar (film)	"On the following day, the film was screened at the TCL Chinese Theatre in Los Angeles, California for over 900 members of the Screen Actors Guild."	2	3	0
+Interstellar (film)	"The film officially premiered on October 26, 2014 at the TCL Chinese Theatre in Los, Angeles, California."	3	2	0
+Interstellar (film)	"Aside from the embargo, very positive messages about the film were posted on Twitter."	3	2	0
+Interstellar (film)	"The film was released in Belgium, France, and Switzerland on November 5, 2014 and in additional territories in the following days, including the United Kingdom on November 7, 2014."	2	2	1
+Interstellar (film)	The film's wide release expanded to theaters that show it digitally.	3	2	0
+Interstellar (film)	"Paramount Pictures is distributing the film in North America, and Warner Bros. will distribute it in the remaining territories."	3	2	0
+Interstellar (film)	"The film was expected to be released in over 770 IMAX screens worldwide, which would have been the widest global release in IMAX cinemas."	1	3	1
+Interstellar (film)	"However, the film was released to only 574 IMAX theaters worldwide."	3	1	1
+Interstellar (film)	"The film concluded its run on IMAX theaters on December 14, 2014 and grossed over $100 million worldwide from IMAX ticket sales, making it the fourth film to do so after Avatar ($228 million), The Dark Knight Rises ($102.4 million) and Gravity ($100.1 million)."	3	2	0
+Interstellar (film)	The film topped the box office the following day on Wednesday earning $1.35 million (which includes its gross from Tuesday night) from 249 theatres (42 of which were IMAX screens) for which IMAX accounted for 62% of its total gross.	2	3	0
+Interstellar (film)	The film earned $3.6 million from Thursday late night preview for a previews total of $4.9 million (Tuesday - Thursday).	3	2	0
+Interstellar (film)	The film was widely released on November 7 and topped the box office on its opening day earning $17 million (which includes the Thursday preview haul but not the Tuesday-Wednesday gross which would make up to $19.15 million) ahead of Big Hero 6 ($15.8 million).	3	1	1
+Interstellar (film)	The film played 52% male and 75% over 25 years old.	3	2	0
+Interstellar (film)	In its second weekend the film fell to number three behind old rival Big Hero 6 ($36 million) and newcomer Dumb and Dumber To ($38.1 million) and dropped 39% earning $29.12 million for a two weekend total of $97.8 million.	3	1	1
+Interstellar (film)	In its third week the film earned $15.1 million and still remained at number three yet again halted by newcomer The Hunger Games: Mockingjay – Part 1 ($121.9	2	2	1
+Interstellar (film)	"The film was released in 35 markets on November 6 including major markets like Germany, Russia, Australia and Brazil and earned $8.7 million in total."	4	1	0
+Interstellar (film)	In total the film earned $20.6 million from IMAX theates globally surpassing the $17.1 million record of The Hunger Games: Catching Fire.	2	2	1
+Interstellar (film)	"The film went number one in South Korea ($14.4 million), Russia ($8.9 million) and France ($5.3 million)."	4	0	1
+Interstellar (film)	"In the United Kingdom the film debuted at number one earning £5.37 million ($8.6 million) in its opening weekend which was lower than the openings of The Dark Knight Rises (£14.36 million), Gravity (£6.24 million) and Inception (£5.91 million)."	3	1	1
+Interstellar (film)	In its third weekend the film added $71.1 million and was No. 2 worldwide behind The Hunger Games: Mockingjay - Part 1 ($154.3 million).	3	2	0
+Interstellar (film)	In its fourth weekend the film was No. 2 for a second week in a row earning earning over $44 million pushing its international gross to more than $395 million and added $18.1 from IMAX screen.	3	2	0
+Interstellar (film)	In its fifth weekend the film added $22.8 million and pushed its international gross to $434.4 million.	2	2	1
+Interstellar (film)	"31 days after its release, the film became the 13th most successful film and 3rd most successful foreign film in South Korea with 9.1 million admissions trailing only behind Avatar (13.3 million admissions) and Frozen (10.3 million admissions)."	2	2	1
+Interstellar (film)	"The film closed down its theatrical run in China on December 12, 2014 (on Friday, 31 days after its initial release) with a total revenue of $122.87 million."	2	2	1
+Interstellar (film)	Foundas said the film also felt more personal than Nolan's previous films.	4	1	0
+Interstellar (film)	"Conversely, cohost Margaret Pomeranz rated the film three out of five, as she felt the human drama got lost amongst the film's scientific concepts."	3	2	0
+Let Me In (film)	Let Me In is a 2010 romantic horror film written and directed by Matt Reeves and starring Kodi Smit-McPhee and Chloë Grace Moretz.	3	2	0
+Let Me In (film)	Interest in producing an English version of Let the Right One In began in 2007 shortly before it was released to audiences.	3	2	0
+Let Me In (film)	"In 2008, Hammer Films acquired the rights for the English adaptation and initially offered Tomas Alfredson, the director of the Swedish film, the opportunity to direct, which he declined."	3	2	0
+Let Me In (film)	Matt Reeves was then signed to direct and write the screenplay.	4	1	0
+Let Me In (film)	"Let Me In premiered at the Toronto Film Festival on September 13, 2010, and was opened wide in North America on October 1, 2010."	3	2	0
+Let Me In (film)	"The film received highly positive reviews from critics, becoming one of the best critically reviewed films of 2010 and was placed on several critics' top-ten list."	2	3	0
+Let Me In (film)	"According to Hammer Films executive producer Nigel Sinclair, interest in the project initially began in the middle of 2007, before the original Let the Right One In had screened for audiences."	3	2	0
+Let Me In (film)	I said... that we shouldn't remake it.	4	1	0
+Let Me In (film)	"In July 2009, audition tapes were leaked to the Internet, showing Chloë Grace Moretz, Mary Mouser, and Ariel Winter auditioning for the role of the vampire, Abby."	3	2	0
+Let Me In (film)	"Principal photography began in Albuquerque, New Mexico on November 2, 2009."	3	2	0
+Let Me In (film)	Method Studios was contracted to handle the film's visual effects work.	3	2	0
+Let Me In (film)	Let Me In: Original Motion Picture Soundtrack is the film's soundtrack album.	4	1	0
+Let Me In (film)	"It was announced on August 17, 2010, that Let Me In would have its world premiere at Toronto International Film Festival on September 13, 2010, and its U.S. premiere on the opening night of Fantastic Fest on September 23, 2010."	2	3	0
+Let Me In (film)	Overture Films released promotional items placed in small plastic evidence bags.	4	1	0
+Let Me In (film)	"With a budget estimated to be $20 million, the film was released on October 1, 2010, in North America opening at #8 on its debut weekend with an estimated $5.1 million in 2,020 theaters."	0	5	0
+Let Me In (film)	"Let Me In was released on DVD and Blu-ray in North America on February 1, 2011, and in the UK on March 14, 2011."	3	2	0
+Let Me In (film)	"The disc includes an audio commentary with director Matt Reeves, a 17-minute featurette on the making of the film, a short that focuses on the art of the special effects, an in-depth video about the process of making the film's unique car crash scene, three deleted scenes, trailer and poster galleries and a digital copy of the film."	2	2	1
+Let Me In (film)	"In April 2010, it was announced that Hammer Film Productions and Dark Horse Comics are producing a four-issue comic book limited series based on the film."	4	1	0
+Let Me In (film)	Marc Andreyko will write the comic.	4	1	0
+Let Me In (film)	Let Me In has received great critical acclaim .	4	1	0
+Let Me In (film)	"Review aggregation website Rotten Tomatoes gives the film a score of 88% based on reviews from 205 critics, with an average score of 7.6/10."	4	1	0
+Let Me In (film)	Let Me In was not well received by all critics.	4	1	0
+Let Me In (film)	"Some disputed Reeves' claims that he was not remaking the film but re-adapting the book, criticizing it for being too similar to the Swedish film."	4	1	0
+Let Me In (film)	Let Me In was a critics' pick as one of the Top 10 Best Films of 2010 at CNN and at MSN Entertainment for the 2010 Year in Review Special Features.	2	2	1
+Let Me In (film)	"John Ajvide Lindqvist, author of Let the Right One In, who also wrote the screenplay for the original Swedish film, was pleased with Let Me In."	4	1	0
+Let Me In (film)	I might just be the luckiest writer alive.	4	1	0
+Let Me In (film)	"It is a remake of the 2008 Swedish film Let the Right One In (Låt den Rätte Komma In), directed by Tomas Alfredson, and the novel of the same name by John Ajvide Lindqvist."	1	4	0
+Let Me In (film)	"It tells the story of a bullied 12-year-old boy who develops a friendship with a vampire child in Los Alamos, New Mexico in the early 1980s."	3	2	0
+Let Me In (film)	It really reminds me of my childhood.	4	1	0
+Let Me In (film)	"It was released by Varèse Sarabande on October 12, 2010."	4	1	0
+Let Me In (film)	It was a weird balance because you're dealing with a dynamic that is quite questionable as far as what everyone's intentions are in the film.	3	2	0
+Let Me In (film)	"The film's producers stated that their intent was to keep the plot similar to the original, yet make it more accessible to a wider audience."	3	2	0
+Let Me In (film)	The film's budget was estimated to be $20 million.	4	1	0
+Let Me In (film)	"The film earned $24 million in box office revenue worldwide, of which $12 million was earned in the United States and Canada."	3	1	1
+Let Me In (film)	An official comic book miniseries prequel titled Let Me In: Crossroads was released after the film which establishes the back-story of Abby and ends where the theatrical film begins.	2	3	0
+Let Me In (film)	"I thought John Lindqvist had written this terrific story, and he also adapted it for the film..."	3	2	0
+Let Me In (film)	"In adapting the story for American audiences, Reeves stated that keeping the 1980s time period within the film was critical in exploring the theme of good and evil."	4	1	0
+Let Me In (film)	"Both Smit-McPhee and Moretz were cast before the release of The Road or Kick-Ass, and the films' directors John Hillcoat and Matthew Vaughn respectively each praised the young actors and recommended them to Reeves."	2	3	0
+Let Me In (film)	"A large section of the film was filmed at Los Alamos High School in Los Alamos, New Mexico."	2	3	0
+Let Me In (film)	The local police department loaned the film crew 1980s style uniforms and patrol cars to use for the film and over 100 local teenagers were cast as extras.	1	3	1
+Let Me In (film)	Reeves felt that Lindqvist's story was very naturalistic and wanted the film to be shot the same way.	3	2	0
+Let Me In (film)	"After viewing Bright Star, he hired Greig Fraser as his cinematographer because he admired Fraser's work with natural light on the film."	4	1	0
+Let Me In (film)	"The studio's supervisor Sean Faden, worked alongside the film's visual effects supervisor, Brad Parker throughout the production."	4	1	0
+Let Me In (film)	Several of the film's scenes proved to be a challenge for the team.	5	0	0
+Let Me In (film)	Houdini software was used for much of the film's shots which involved Abby in her vampiric form.	4	1	0
+Let Me In (film)	It was a weird balance because you're dealing with a dynamic that is quite questionable as far as what everyone's intentions are in the film.	3	2	0
+Let Me In (film)	The film's international release began on October 6 in European markets with other markets following thereafter.	2	3	0
+Let Me In (film)	"During the film's 10-week theatrical run, Let Me In grossed over $24 million worldwide, $12.1 million of which was from the United States and Canada."	1	3	1
+Let Me In (film)	The film was #5 among the ten lowest-grossing releases of 2010 from major studios (movies released in over 1500 theaters).	2	2	1
+Let Me In (film)	"The series, titled Let Me In: Crossroads, is a prequel to the film."	4	1	0
+Let Me In (film)	"Particular praise was given to the film's two leads, Kodi Smit-McPhee and Chloë Grace Moretz, for their chemistry and maturity on-screen."	3	2	0
+Let Me In (film)	Roger Ebert of the Chicago Sun-Times praised the film while comparing it to the original.	3	2	0
+Lone Survivor (film)	"Lone Survivor is a 2013 American war film written and directed by Peter Berg, and starring Mark Wahlberg, Taylor Kitsch, Emile Hirsch, Ben Foster and Eric Bana."	2	3	0
+Lone Survivor (film)	Berg first learned of the book Lone Survivor in 2007 while he was filming Hancock.	2	3	0
+Lone Survivor (film)	"Lone Survivor opened in limited release in the United States on December 25, 2013, before opening across North America on January 10, 2014, to strong financial success and a generally positive critical response."	3	2	0
+Lone Survivor (film)	"Most critics praised Berg's direction, as well as the acting, story, visuals and battle sequences."	4	1	0
+Lone Survivor (film)	"Other critics, however, derided the film for focusing more on its action scenes than on characterization."	3	2	0
+Lone Survivor (film)	"Ali Suliman, who previously collaborated with Berg on the 2007 film The Kingdom, plays Mohammad Gulab, an Afghan villager;:43 Alexander Ludwig plays Navy SEAL Machinist's Mate Shane Patton.:2"	3	2	0
+Lone Survivor (film)	"The cast is rounded out by Yousuf Azami as Ahmad Shah, a Taliban leader; Sammy Sheik as Taraq, a field commander of the Taliban group; Rich Ting as SO2 James Suh; Dan Bilzerian as Senior Chief Special Operator (SOCS) Daniel Healy; Jerry Ferrara as SGT Hasslert; Scott Elrod as Peter Musselman; Rohan Chand as Gulab's son; and Corey Large as US Navy SEAL Captain Kenney."	3	2	0
+Lone Survivor (film)	"Zarin Mohammad Rahimi, who acted as a technical advisor during production, appears as an elderly shepherd who discovers the four-man SEAL team during the mission; Nicholas Patel and Daniel Arroyo play the goat herders who assist the shepherd.:2"	1	3	1
+Lone Survivor (film)	"Following publication of Marcus Luttrell and Patrick Robinson's nonfiction book Lone Survivor (2007), producer Barry Spikings met Luttrell’s attorney, Alan Schwartz, who was interested in adapting the book to film.: Schwartz suggested that Spikings's son-in-law, Akiva Goldsman, write the screenplay."	4	1	0
+Lone Survivor (film)	"The film rights to the book had become the subject of a bidding war among a host of established film studios, including Warner Bros., Sony Pictures Entertainment, Paramount Pictures, DreamWorks and Universal Pictures."	2	3	0
+Lone Survivor (film)	"When Mark Wahlberg read the script and expressed an interest in portraying Marcus Luttrell, he and his manager Stephen Levinson pitched the concept to producer Randall Emmett, the co-founder of Emmett/Furla Films, during the 2012 filming of 2 Guns—another film starring Wahlberg and produced by Emmett."	3	2	0
+Lone Survivor (film)	"Lone Survivor had an estimated production budget of $40–50 million; three production companies, Emmett/Furla Films, Herrick Entertainment and Envision Entertainment, collaborated to co-finance the film."	4	1	0
+Lone Survivor (film)	"Berg had discussed the project with Wahlberg, Taylor Kitsch, Emile Hirsch and Ben Foster years earlier.:22"	4	1	0
+Lone Survivor (film)	"Universal held an open casting call in Los Angeles, aiding in the filmmakers' search for supporting actors, extras, photo doubles and stand-ins."	3	2	0
+Lone Survivor (film)	"In August 2012, it was announced that Alexander Ludwig and Eric Bana had joined the cast."	4	1	0
+Lone Survivor (film)	"Although Wahlberg, Kitsch, Hirsch and Foster had physically trained for their roles prior to filming, Luttrell organized a three-week training regimen at a bootcamp in New Mexico, where the actors were trained by elite military personnel in weapons, as well as military communications and tactics.:23"	3	2	0
+Lone Survivor (film)	"While the book Lone Survivor chronicles Marcus Luttrell's 1999 enlistment and training, as well as his 2005 deployment to Afghanistan, Berg decided that the film adaptation would focus mainly on the events of the failed United States Navy SEALs mission Operation Red Wings, as well as the bonding and camaraderie of Luttrell and his fallen teammates.:17"	3	2	0
+Lone Survivor (film)	"To provide authenticity, Luttrell moved into Berg’s home for one month while Berg was writing the script."	4	1	0
+Lone Survivor (film)	"Filming for Lone Survivor was scheduled to start on September 15, 2012."	4	1	0
+Lone Survivor (film)	Principal photography commenced in October 2012 and concluded in November after 42 days; filming took place in New Mexico.:25–	2	3	0
+Lone Survivor (film)	The production received a 25% tax credit for filming in the state.	4	1	0
+Lone Survivor (film)	"With Lone Survivor, Berg continued his trademark of having war veterans as part of his film crew."	2	3	0
+Lone Survivor (film)	"Luttrell, along with several other Navy SEAL veterans, acted as technical advisors during the production."	3	2	0
+Lone Survivor (film)	Filming first took place at the Sangre de Cristo Mountains of the Santa Fe National Forest.	4	1	0
+Lone Survivor (film)	"Eight days were spent on mountains ranging from 11,000&#160;to 12,000 feet (3,400–3,700&#160;m)."	3	2	0
+Lone Survivor (film)	"In recreating the Hindu Kush mountain range that stretches between Afghanistan and Pakistan, the film crew shot at 10 separate locations in the national forest.:22"	2	3	0
+Lone Survivor (film)	"Production moved to Chilili, New Mexico for two weeks of filming."	5	0	0
+Lone Survivor (film)	[Berg wanted the audience to be as close to our characters and as close to the action as possible to experience the extreme circumstances our war heroes had to go through emotionally and physically.	4	1	0
+Lone Survivor (film)	"Lone Survivor was director of photography Tobias Schliessler's fifth collaboration with Berg,:51 as well as Berg's first film shot with digital cinematography."	3	2	0
+Lone Survivor (film)	"In preparing to shoot Lone Survivor, Schliessler was inspired by British-American photojournalist Tim Hetherington's war photography book Infidel, which details a single U.S. platoon, assigned to an outpost in the Korengal Valley during the war in Afghanistan."	0	5	0
+Lone Survivor (film)	"The Santa Fe National Forest's rocky terrain and steep inclines proved difficult for conventional camera equipment—such as cranes and dollies—which resulted in much of the film's scenes being shot by the camera operators, who were rigged to aerial ski lifts above the action.:26"	1	3	1
+Lone Survivor (film)	"Digital cinema post-production facility DeLuxe supplied the Lone Survivor production with a 40-foot trailer, known as the EC3 (a joint venture between Company 3 and EFILM)."	3	2	0
+Lone Survivor (film)	"To produce the many injuries received by the four-man SEAL team, the filmmakers recruited KNB Effects team Gregory Nicotero and Howard Berger.:25"	3	2	0
+Lone Survivor (film)	":9 To aid Nicotero and Berger in recreating the injuries of the fallen servicemen, Berg provided autopsy reports of the deceased.:28"	4	1	0
+Lone Survivor (film)	Costume designer Amy Stofsky ensured that the military wardrobe seen in the film reflected the 2005 time period.	3	2	0
+Lone Survivor (film)	"In designing the uniforms for the Pashtun people and Taliban forces, Stofsky aimed to create a visual distinction between the villagers and Taliban fighters."	2	3	0
+Lone Survivor (film)	Editing and post-production work on Lone Survivor took roughly seven months to complete.:3	2	3	0
+Lone Survivor (film)	The first cut of the film was two-and-a-half hours long.	4	1	0
+Lone Survivor (film)	"Sound editing and mixing work took place at Todd Soundelux, with Wylie Stateman serving as the supervising sound editor."	4	1	0
+Lone Survivor (film)	"In creating sound effects for the environment of each scene, Stateman relied on foley design, rather than traditional sound effects."	3	2	0
+Lone Survivor (film)	"The two visual effects companies for Lone Survivor were Industrial Light &amp; Magic (ILM) and Image Engine,:3 with overall supervision by Jesper Kjölsrud and Grady Cofer.:3"	3	2	0
+Lone Survivor (film)	American post-rock band Explosions in the Sky scored the film with music composer Steve Jablonsky.	3	2	0
+Lone Survivor (film)	"They have an emotional, tender quality to their music, even when it gets aggressive."	4	1	0
+Lone Survivor (film)	"I didn’t want the score to be overly aggressive, I wanted it to be haunting and emotional."	4	1	0
+Lone Survivor (film)	"The motion picture soundtrack for Lone Survivor was released on December 17, 2013 by record label Metropolis Movie Music."	4	1	0
+Lone Survivor (film)	"While based on true events, a number of historical inaccuracies in the film have been noted."	3	2	0
+Lone Survivor (film)	Also in dispute is the number of Taliban fighters involved in the ambush.	4	1	0
+Lone Survivor (film)	The film shows Luttrell (Wahlberg) being able to walk after the Taliban’s ambush on the four-man SEAL team.	3	2	0
+Lone Survivor (film)	"During a briefing, early in the film, an officer states that a SEAL on a previous mission in the Afghan mountains was bitten by a rattlesnake."	4	1	0
+Lone Survivor (film)	As the four-man SEAL team are fighting and withdrawing down a rocky slope one of them encounters a large rattlesnake which is heard rattling before it is seen on screen.	2	3	0
+Lone Survivor (film)	"Rattlesnakes are found in almost every mainland country of the Americas, from Canada to Argentina, excluding Panama, Ecuador and Chile, but they do not occur outside the Americas."	3	2	0
+Lone Survivor (film)	"The venomous snakes encountered in the rocky valleys of the Pashtun region would be the Saw-scaled viper (Echis carinatus) and the Levant viper (Macrovipera lebetina), with an outside chance of a rare Persian horned viper (Pseudocerastes persicus)."	3	2	0
+Lone Survivor (film)	Berg first screened Lone Survivor to a number of professional American football teams to generate a strong word-of-mouth for the film.	2	3	0
+Lone Survivor (film)	Entertainment One distributed Lone Survivor in Canadian markets.	3	2	0
+Lone Survivor (film)	"Walt Disney Studios Motion Pictures International released the film in the Philippines on January 8, 2014."	4	1	0
+Lone Survivor (film)	"Lone Survivor '​s limited release in the United States saw it take $153,839—an average of $45,436 per theater—in its first five days."	3	1	1
+Lone Survivor (film)	"The film grossed an additional $326,685 on the following weekend."	3	2	0
+Lone Survivor (film)	"The film saw a significant drop in attendance during its second weekend of wide release; it had earned $6,665,470, which was a 135.4% increase from its opening Friday."	3	1	1
+Lone Survivor (film)	"Lone Survivor grossed $125,095,601 in the United States and Canada; coupled with its international take of $24,200,000, the film accumulated $149,295,601 in worldwide box office totals."	4	1	0
+Lone Survivor (film)	Several reviewers criticized Lone Survivor for focusing more on its action scenes than on characterization.	3	2	0
+Lone Survivor (film)	"Lone Survivor has received various awards and nominations, in categories ranging from recognition of the film itself to its screenplay, direction, stunts and sound editing, to the performance of its lead actor, Mark Wahlberg."	2	2	1
+Lone Survivor (film)	"Lone Survivor was released on Blu-ray Disc and DVD formats on June 3, 2014 by Universal Studios Home Entertainment in the United States, and by Entertainment One in Canada."	2	3	0
+Lone Survivor (film)	"In the United Kingdom, the film was released on both home video formats on June 9, 2014."	3	2	0
+Lone Survivor (film)	"It grossed an additional $7,096,330 during its fourth weekend, moving to fifth place in the top 10 rankings."	3	1	1
+Lone Survivor (film)	"It’s humbling to watch this dramatization of the sacrifices these men make, without hesitation."	3	2	0
+Lone Survivor (film)	The film is based on the 2007 nonfiction book of the same name by Marcus Luttrell with Patrick Robinson.	2	3	0
+Lone Survivor (film)	Universal Pictures secured the film rights in August 2007 after bidding against other major film studios.	2	3	0
+Lone Survivor (film)	"Luttrell and several other Navy SEAL veterans acted as technical advisors, while multiple branches of the United States Armed Forces aided the film's production."	4	1	0
+Lone Survivor (film)	The film received two Academy Award nominations for Best Sound Editing and Best Sound Mixing.	2	3	0
+Lone Survivor (film)	Marcus Luttrell appears in the film in an uncredited role.	4	1	0
+Lone Survivor (film)	Goldsman however did not believe he was the right screenwriter for the project; he suggested that Peter Berg write and direct the film.	4	1	0
+Lone Survivor (film)	The studio had also acquired the United States distribution rights as part of a negative pickup deal with the film's producers.	3	2	0
+Lone Survivor (film)	"After Universal secured the rights to distribute Lone Survivor in the United States, executive producer Mark Damon's independent film company Foresight Unlimited took Berg and Emmett to the 2012 Cannes Film Festival to secure worldwide pre-sales for the film."	3	2	0
+Lone Survivor (film)	The film attracted $30 million in worldwide pre-sales to distributors in 40 international markets.	3	2	0
+Lone Survivor (film)	"The United States Navy provided incident reports related to the mission, as well as archive military training footage, which is shown during the film's opening credits sequence.:1"	3	2	0
+Lone Survivor (film)	"During filming, there were some dialogue changes in comparison to Berg's script, as the filmmaker occasionally encouraged the actors to improvise their lines."	1	4	0
+Lone Survivor (film)	Berg shot Lone Survivor with creative autonomy as Universal did not fully oversee the film's production.	4	1	0
+Lone Survivor (film)	"Schliessler intended to shoot Lone Survivor with Arri Alexa cameras, but instead shot the film with Red Epic digital cameras, using Fujinon and Angénieux lenses.:2"	4	1	0
+Lone Survivor (film)	"The book's images became a guide to creating the overall look of the film after Schliessler had shown them to Berg, as well as the art and costume departments.:2"	3	2	0
+Lone Survivor (film)	The equipment enabled Schleissler to overlook every shot of the film in the EC3 trailer.	2	3	0
+Lone Survivor (film)	Digital imaging technician Jeff Tomcho was tasked with ensuring that the Red Epic cameras were properly set up and successfully capturing the filmed footage.	3	2	0
+Lone Survivor (film)	The film's special effects supervisor Bruno van Zeebroeck created RPG explosions and bullet hits for the battle sequences that occur in the roads around Gulab's home.:26	3	2	0
+Lone Survivor (film)	"She and her team manufactured uniforms for the film's lead actors, extras, stunt and photo doubles, and military personnel who were also acting as extras."	3	2	0
+Lone Survivor (film)	Stofsky also had a New Mexico-based tailor produce all of the turbans featured in the film.	3	2	0
+Lone Survivor (film)	"Parker spent six months editing Lone Survivor at the Lantana Entertainment Media Campus in Santa Monica, California.: The editorial department used four Avid Media Composer systems to edit the film."	3	2	0
+Lone Survivor (film)	Parker then cut the film down to two hours when he realized there was a way to further trim the film.	3	2	0
+Lone Survivor (film)	"In total, the film has over 400 visual effects shots."	3	1	1
+Lone Survivor (film)	ILM was only responsible for creating a helicopter crash sequence in the film.:3	3	2	0
+Lone Survivor (film)	"Early in the film, the four-man SEAL reconnaissance team is discovered by three goat herders—an elderly man and two teenage boys."	3	2	0
+Lone Survivor (film)	"Luttrell also expressed that he did not witness the MH-47 Chinook helicopter being shot down, as seen in the film."	3	2	0
+Lone Survivor (film)	"At the end of the film, the Pashtun villagers fight off a Taliban attack in a firefight that never actually happened."	3	2	0
+Lone Survivor (film)	"Luttrell also did not go into cardiac arrest after he was rescued, nor was he near death, as seen in the film."	4	1	0
+Lone Survivor (film)	The film received a generally positive response from several football players who took to social media to praise the film.	3	2	0
+Lone Survivor (film)	"Lone Survivor held its red carpet premiere on December 3, 2013 at the Ziegfeld Theatre in New York City, where the film received a standing ovation."	1	4	0
+Lone Survivor (film)	"However, by the end of its second weekend, the film earned $25,929,570, a 41.7% overall decrease from the previous weekend."	4	1	0
+Lone Survivor (film)	"The film remained in second place during its third weekend, grossing an additional $12,900,960, which was a 41.5% decrease from its second weekend."	2	3	0
+Lone Survivor (film)	"By its sixth weekend, the film went from fifth place to ninth, earning $4,086,435."	3	1	1
+Lone Survivor (film)	"Outside of North America, the film's biggest markets were in Australia, the United Kingdom, Spain, Japan, France, South Korea and Germany; the film grossed approximately $3.5 million in Australia, $3.4 million in the United Kingdom, $2.5 million in Spain, $2.2 million in Japan, $1.5 million in France, $1.2 million in South Korea, and $1 million in Germany."	3	1	1
+Lone Survivor (film)	"Review aggregation website Rotten Tomatoes sampled 195 reviews, and gave the film a score rating of 75%, with an average score of 6.6/10."	4	1	0
+Lone Survivor (film)	"While praising the film for its visuals and sound effects, as well as Berg's atmospheric direction, Kyle Smith of the New York Post gave Lone Survivor a mixed review."	3	2	0
+Lone Survivor (film)	"Lone Survivor received two Academy Award nominations for Best Sound Editing and Best Sound Mixing, although the film failed to win any of the awards; at the 86th Academy Awards, the film had lost in both categories to Gravity."	1	3	1
+Lone Survivor (film)	"In addition to the following list of awards and nominations, the film was named one of the ten best films of 2013 by the Las Vegas Film Critics Society, who also ranked it as the Best Action Film of 2013."	2	2	1
+Man of Steel (film)	"Man of Steel is a 2013 superhero film based on the DC Comics character Superman, co-produced by Legendary Pictures and Syncopy Films, and distributed by Warner Bros. It is the first installment in the DC shared film universe."	3	2	0
+Man of Steel (film)	"Development began in 2008 when Warner Bros. Pictures took pitches from comic book writers, screenwriters and directors, opting to reboot the franchise."	2	3	0
+Man of Steel (film)	"In 2009, a court ruling resulted in Jerry Siegel's family recapturing the rights to Superman's origins and Siegel's copyright."	2	3	0
+Man of Steel (film)	"The decision stated that Warner Bros. did not owe the families additional royalties from previous films, but if they did not begin production on a Superman film by 2011, then the Shuster and Siegel estates would be able to sue for lost revenue on an unproduced film."	2	3	0
+Man of Steel (film)	"Man of Steel was released to the general public on June 14, 2013, in conventional, 3D, and IMAX theaters."	4	1	0
+Man of Steel (film)	"The film became a box office success, grossing $668,045,518 worldwide, and received mixed reviews."	3	1	1
+Man of Steel (film)	"In June 2008, Warner Bros. took pitches from comic book writers, screenwriters and directors on how to successfully restart the Superman film series."	3	2	0
+Man of Steel (film)	"Comic book writers Grant Morrison, Mark Waid, Geoff Johns and Brad Meltzer were among those who pitched their ideas for a reboot."	3	2	0
+Man of Steel (film)	"In August 2008, Warner Bros. suggested a reboot of the film series."	3	2	0
+Man of Steel (film)	"The plot of Man of Steel employs a nonlinear narrative, and tells parts of the story in flashback."	4	1	0
+Man of Steel (film)	"During story discussions for The Dark Knight Rises in 2010, David S. Goyer told Christopher Nolan his idea regarding how to present Superman in a modern context."	4	1	0
+Man of Steel (film)	"Zack Snyder expressed reluctance to shooting the film in 3-D, due to the technical limitations of the format, and instead chose to shoot the film two-dimensionally and convert the film into 3-D in post production, for a 2-D, 3-D, and IMAX 3-D release."	3	2	0
+Man of Steel (film)	"Man of Steel filmed in the Chicago area, California and Burnaby's Mammoth Studios was transformed into Superman's home planet of Krypton and myriad extraterrestrial aircraft."	3	1	1
+Man of Steel (film)	Man of Steel features a redesigned Superman costume by Jim Acheson and Michael Wilkinson.	3	2	0
+Man of Steel (film)	The sequences where Superman utilizes close-combat fight scenes with the other Kryptonians proved to be a major challenge for the filmmakers and the visual effects crew.	3	2	0
+Man of Steel (film)	"On set, a camera rig was used to capture the environment of the sequence."	3	2	0
+Man of Steel (film)	"For the sequences involving the terraforming of the city Metropolis, Double Negative handled the visual effects for the sequence."	4	1	0
+Man of Steel (film)	"In order to construct a Metropolis that seemed convincing and realistic, Double Negative utilized Esri's CityEngine to help procedurally deliver the city."	4	1	0
+Man of Steel (film)	"For the destruction of the buildings, the studio rewrote its own asset system to focus towards its dynamic events."	3	2	0
+Man of Steel (film)	Hans Zimmer initially denied popular rumors that he would be composing the film's score.	3	2	0
+Man of Steel (film)	"Warner Bros. and DC Comics won the rights to the domain name manofsteel.com, in use by a member of the public, for use for the film's official website."	2	3	0
+Man of Steel (film)	Warner Bros. enlisted a Christian-based marketing firm Grace Hill Media to help spread the Christian themes of the film to the religious demographics.	0	5	0
+Man of Steel (film)	Special trailers were created outlining the religious tones.	3	1	1
+Man of Steel (film)	Hollywood studios frequently market movies to specific religious and cultural groups.	4	1	0
+Man of Steel (film)	"Man of Steel held a red carpet premiere on June 10, 2013 at the Lincoln Center's Alice Tully Hall in New York City, which featured the attendance of the principal cast members."	3	2	0
+Man of Steel (film)	"The film received a wide release on June 14, 2013 in conventional, 3D, and IMAX theaters."	3	2	0
+Man of Steel (film)	"Man of Steel earned $291,045,518 in North America and an estimated $377,000,000 in other countries, for a worldwide total of $668,045, making it the highest-grossing Superman film to date, and the second-highest-grossing reboot of all time behind The Amazing Spider-Man, although it did beat The Amazing Spider-Man domestically."	3	1	1
+Man of Steel (film)	"Man of Steel made $12 million from a Thursday night Wal-Mart screening program, and an additional $9 million from midnight shows."	3	2	0
+Man of Steel (film)	"This marked Warner Bros.' third-highest advance night/midnight opening, and the biggest advance night/midnight debut for a non-sequel."	4	1	0
+Man of Steel (film)	The film eventually earned $44.0 million during its opening Friday (including midnight grosses) and $56.1 million when the Thursday night showings are included.	2	2	1
+Man of Steel (film)	"Man of Steel earned $73.3 million on its opening weekend from 24 countries, which includes $4.2 million from 79 IMAX theaters, setting a June opening-weekend record for IMAX."	3	2	0
+Man of Steel (film)	The film set an opening-day record in the Philippines with $1.66 million.	2	3	0
+Man of Steel (film)	Man of Steel received mixed reviews from critics.	4	1	0
+Man of Steel (film)	"The film has a score of 55% on Rotten Tomatoes, based on 287 reviews, with an average rating of 6.2/10."	3	2	0
+Man of Steel (film)	"Jim Vejvoda of IGN gave Man of Steel a 9 out of 10 while praising the action sequences and the performances of Kevin Costner, Russell Crowe and Michael Shannon."	3	2	0
+Man of Steel (film)	"Todd McCarthy of The Hollywood Reporter said rebooting the franchise again was unnecessary, but that the film was confident enough and Snyder's attention to detail careful enough that audiences could overlook another reboot."	2	3	0
+Man of Steel (film)	"Man of Steel was released on two-disc DVD, and respective Blu-ray and Blu-ray 3D combo packs on November 12,  and on December 2, 2013 in UK."	2	3	0
+Man of Steel (film)	"In June 2013, it was announced that director Zack Snyder and screenwriter David S. Goyer would both be returning for a Man of Steel sequel, which is being fast tracked by Warner Bros. Goyer had previously signed a three-film deal, which includes Man of Steel, its sequel, and a Justice League film featuring Superman."	3	2	0
+Man of Steel (film)	It didn't position the character the way he needed to be positioned.	4	1	0
+Man of Steel (film)	It was discovered to be related to the film due to the copyright on the website.	3	2	0
+Man of Steel (film)	It’s a Bible study in a cape.	4	1	0
+Man of Steel (film)	"Its opening weekend gross of $116.6 million was the third-highest of 2013, behind Iron Man 3 ($174.1 million) and The Hunger Games: Catching Fire ($158.1 million), and the third-highest among non-sequels, behind Marvel's The Avengers ($207.4 million) and The Hunger Games ($152.5 million)."	2	2	1
+Man of Steel (film)	It also broke Toy Story 3 '​s record ($110.3 million) for the highest weekend debut in June.	3	2	0
+Man of Steel (film)	"Its biggest opener outside the U.S. was in China, with $25.9 million in four days (Thursday to Sunday)."	4	1	0
+Man of Steel (film)	"Directed by Zack Snyder and written by David S. Goyer, the film stars Henry Cavill, Amy Adams, Michael Shannon, Kevin Costner, Diane Lane, Laurence Fishburne, and Russell Crowe."	4	1	0
+Man of Steel (film)	"Producer Christopher Nolan pitched Goyer's idea after story discussion on The Dark Knight Rises, and Snyder was hired as the film's director in October 2010."	3	2	0
+Man of Steel (film)	"Some critics praised the film's narrative, acting, fight scenes, visuals and reinvention of the titular character, while others criticized its pacing and lack of character development."	3	2	0
+Man of Steel (film)	"Plans included for the film to contain references to the existence of other superheroes, alluding to the possibility of a further DC Universe, and setting the tone for a shared fictional universe of DC Comics characters on film."	3	2	0
+Man of Steel (film)	"Zack Snyder confirmed both Booster Gold and Batman references in the film, indicating their presence in the DC shared film universe."	4	1	0
+Man of Steel (film)	"Ucluelet and Nanaimo, British Columbia, feature prominently in the film’s first hour—the trademark winter mist and rough seas are passed off as Alaska in the film."	4	1	0
+Man of Steel (film)	"He and the producers attempted to devise a suit featuring the red trunks, but could not design one that fit into the tone of the film, leading to their removal from the suit."	3	2	0
+Man of Steel (film)	"However, in June 2012, it was confirmed that Zimmer would, in fact, be writing the film's musical score."	3	2	0
+Man of Steel (film)	"The poster, which depicts Superman being arrested, generated a positive response and much speculation about the film's story."	3	2	0
+Man of Steel (film)	It was discovered to be related to the film due to the copyright on the website.	3	2	0
+Man of Steel (film)	"In anticipation of the film, Mattel unveiled a toy line which includes Movie Masters action figures."	2	3	0
+Man of Steel (film)	"In addition, Lego will release three Man of Steel sets, inspired by scenes from the film; Rubie’s Costume Co. also released a new line of Man of Steel-inspired costumes and accessories for both kids and adults."	3	2	0
+Man of Steel (film)	The film has reportedly earned over $160 million from promotional tie-ins.	2	3	0
+Man of Steel (film)	"The official site continued to be updated with new static files that slowly revealed the symbol for the film's villain, General Zod."	3	2	0
+Man of Steel (film)	"The film earned $116.6 million on its opening weekend, including $17.5 million from IMAX theaters."	3	1	1
+Man of Steel (film)	Snyder stated that the film would take inspiration from the comic The Dark Knight Returns.	4	1	0
+Man of Steel (film)	"In January 2014, it was announced that the film had been delayed from its original July 17, 2015 release date to May 6, 2016, and in May 2014, the film's title was revealed to be Batman v Superman: Dawn of Justice."	3	2	0
+Pineapple Express (film)	"Pineapple Express is a 2008 American stoner action comedy film directed by David Gordon Green, written by Seth Rogen and Evan Goldberg and starring Rogen and James Franco."	3	2	0
+Pineapple Express (film)	"The inspiration for making Pineapple Express, according to producer Judd Apatow, was Brad Pitt's character in True Romance, a stoner named Floyd."	0	5	0
+Pineapple Express (film)	Pineapple Express received generally positive reviews from critics.	3	2	0
+Pineapple Express (film)	"On Rotten Tomatoes, the film holds a rating of 68%, based on 193 reviews, with an average rating of 6.3/10."	4	1	0
+Pineapple Express (film)	Sony Pictures had the video removed from YouTube within a few days of its posting.	3	1	1
+Pineapple Express (film)	"David Gordon Green met with Apatow, Rogen and Goldberg on the set of Knocked Up, and later on the set of Superbad to discuss the project."	3	1	1
+Pineapple Express (film)	"Rogen was originally going to play Saul, but Apatow suggested that Franco should play the role instead."	3	2	0
+Pineapple Express (film)	"Seth Rogen spoke with musician Huey Lewis, of Huey Lewis and the News, about writing and performing the film's theme song in November 2007."	2	3	0
+Pineapple Express (film)	"There was an exclusive sneak peek of the film attached to the Superbad DVD, which was released on December 4, 2007."	2	3	0
+Pineapple Express (film)	"Sony released the film on Wednesday August 6, 2008 with $12,085,679 in ticket sales."	3	1	1
+Pineapple Express (film)	"Over the weekend it opened at number two behind The Dark Knight with $23,245,025 for a five day total of $41,318,736."	3	1	1
+Pineapple Express (film)	"The film was released on DVD and Blu-ray on January 6, 2009."	3	2	0
+Pineapple Express (film)	"The original motion picture soundtrack to the film was released on August 5, 2008."	4	1	0
+Pineapple Express (film)	"Judd Apatow stated that there's a strong possibility for a sequel, but nothing is officially announced yet."	3	2	0
+Pineapple Express (film)	"It was released on DVD and Blu-ray in Australia on December 31, 2008."	3	2	0
+Pineapple Express (film)	"The film was released on August 6, 2008."	3	2	0
+Pineapple Express (film)	Franco was nominated for a Golden Globe award for his performance in the film.	1	4	0
+Pineapple Express (film)	"However, he was critical of the second half of the film, and felt that the violence in contrast to the comedy of the first half was jarring and gratuitous."	3	2	0
+Pineapple Express (film)	The film's makers had been keen on including the song in the film's main trailer and approached M.I.A.'s U.S. label Interscope Records for permission.	3	2	0
+Pineapple Express (film)	"The film was released on August 6, 2008."	3	2	0
+Pineapple Express (film)	Cable network FX pre-bought exclusive rights to air the film after its theatrical run.	3	2	0
+Pineapple Express (film)	"Green cited The Blues Brothers, Midnight Run, Running Scared, the Terrence Malick written The Gravy Train and Stir Crazy as sources of inspiration and influence on directing the film."	2	3	0
+Pineapple Express (film)	"The film went on to gross $87,341,380 domestically with a worldwide total of $101,549,277."	3	1	1
+Pineapple Express (film)	Both rated and unrated versions of the film are available.	2	3	0
+Pineapple Express (film)	Both the Blu-ray and 2-disc DVD versions of the film come with a digital copy of the unrated film.	4	1	0
+Primary Colors (film)	"Primary Colors is a 1998 drama film based on the novel Primary Colors: A Novel of Politics, a roman à clef about Bill Clinton's first presidential campaign in 1992, which originally had been published anonymously, but in 1996 was revealed to have been written by journalist Joe Klein, who had been covering Clinton's campaign for Newsweek."	2	3	0
+Primary Colors (film)	"Following the publication of the book in 1996, director Mike Nichols paid more than $1 million for the screen rights."	3	2	0
+Primary Colors (film)	"At the Cannes Festival, Thompson said she did not base her performance on Hillary Clinton, while Travolta said he based his on several presidents, but mostly on Bill Clinton."	3	2	0
+Primary Colors (film)	Nichols was criticized for cutting an interracial love scene from the final version of the film.	3	2	0
+Primary Colors (film)	The film also generated controversy for its depiction of a Clinton-like character as it was also released close to the Lewinsky scandal.	2	3	0
+Primary Colors (film)	The movie received a positive reception from critics.	4	1	0
+Primary Colors (film)	"In a negative review, Jeff Vice of The Deseret News wrote that the last half of the movie dragged, Travolta's performance seemed more like an impersonation than actual acting, the movie lacked subtlety or depth, and it was loaded with cheap and obvious jokes."	4	1	0
+Primary Colors (film)	Primary Colors currently holds an 80% rating on Rotten Tomatoes based on 75 reviews.	3	2	0
+Primary Colors (film)	"The film earned a disappointing box office gross, only taking $39,001,187 domestically and $13,089,000 in foreign markets, for a worldwide total gross of $52,090,187 against a budget of $65 million."	3	2	0
+Primary Colors (film)	"The soundtrack album, featuring music by and produced by Ry Cooder, was released in March 1998."	2	3	0
+Primary Colors (film)	"It was directed by Mike Nichols and starred John Travolta, Emma Thompson, Billy Bob Thornton, Kathy Bates, Maura Tierney, Larry Hagman, and Adrian Lester."	3	2	0
+Primary Colors (film)	"Bates was nominated for an Academy Award for Best Supporting Actress for her performance, and the film itself was nominated for an Academy Award for Best Adapted Screenplay."	2	3	0
+Riddick (film)	"Riddick is a 2013 British-American science fiction film, the third installment in the The Chronicles of Riddick film series."	3	2	0
+Riddick (film)	"The film was released on September 4, 2013, in the UK and Ireland, and September 6, 2013, in the United States."	4	1	0
+Riddick (film)	Rumors of a third film in the Chronicles of Riddick series have circulated since 2006.	4	1	0
+Riddick (film)	"On February 9, 2010, Diesel confirmed in an update on his Facebook page that one of the locations used in the upcoming sequel would be the White Desert in Farafra, Egypt."	2	3	0
+Riddick (film)	"In September 2011, it was announced that Karl Urban would reprise his role as Vaako from The Chronicles of Riddick."	3	2	0
+Riddick (film)	"In January 2012, it was announced that Katee Sackhoff and Matt Nable had also joined the cast."	4	1	0
+Riddick (film)	"The first image of Vin Diesel on the film's set was released on January 20, 2012."	3	2	0
+Riddick (film)	Riddick was met with mixed reviews.	3	2	0
+Riddick (film)	"It currently holds a 58% approval rating, with an average score of 5.4/10, on the aggregate review site Rotten Tomatoes, based on 154 reviews."	3	2	0
+Riddick (film)	"Riddick grossed $42,025,135 in North America, and $56,312,160 in other countries, for a worldwide total of $98,337,295."	3	1	1
+Riddick (film)	"Riddick was released on DVD and Blu-ray on January 14, 2014."	4	1	0
+Riddick (film)	"The film grossed an additional $23,026,441 through domestic Blu-ray and DVD sales."	3	2	0
+Riddick (film)	"On January 29, 2014, Vin Diesel announced on his Facebook page that Universal Pictures wishes to develop a fourth Riddick film, again prompted by robust DVD sales of the most recent film in the series."	1	4	0
+Riddick (film)	It was shown in both conventional and IMAX Digital theaters.	4	1	0
+Riddick (film)	It just takes five years to make another one because David Twohy and I are so precise about it.	4	1	0
+Riddick (film)	It's just not clear what that something is anymore.	4	1	0
+Riddick (film)	"At first, Twohy assumed that the film would be an independent, low-budget production, rather than being released by Universal Studios as the other films in the series had been."	3	2	0
+Riddick (film)	"Over the next four years, Diesel periodically posted information on his own Facebook page updating fans on the film's progress."	3	2	0
+Riddick (film)	"He mentioned the terrain features, unique to the area, would lend to the off-planet atmosphere of the film."	3	2	0
+Riddick (film)	"If we didn't finish the film, I would be homeless."	4	1	0
+Riddick (film)	The film entered post production in April 2012.	4	1	0
+Riddick (film)	"The teaser trailer for the film was released on March 22, 2013 via Vin Diesel's official Facebook page."	2	2	1
+Riddick (film)	"In North America, the film opened to number one in its first weekend, with $19,030,375."	3	1	1
+Riddick (film)	"In its second weekend, the film dropped to number three, grossing an additional $6,841,800."	3	1	1
+Riddick (film)	"In its third weekend, the film dropped to number eight, grossing $3,656,620."	3	1	1
+Riddick (film)	"In its fourth weekend, the film dropped to number 13, grossing $1,607,145."	4	1	0
+Rio 2	Rio 2 is a 2014 American 3D computer-animated musical adventure-comedy film produced by Blue Sky Studios and directed by Carlos Saldanha.	3	2	0
+Rio 2	"Featuring the returning voices of Jesse Eisenberg, Anne Hathaway, will.i.am,"	3	2	0
+Rio 2	"Jamie Foxx, George Lopez, Tracy Morgan, Jemaine Clement, Leslie Mann, Rodrigo Santoro, and Jake T. Austin, the film was released internationally on March 20, 2014, and on April 11, 2014, in American theaters."	2	2	1
+Rio 2	"Don Rhymer, screenplay writer of the first film, died on November 28, 2012 during the writing phase of the sequel, from head and neck cancer."	2	2	1
+Rio 2	"The film was released to international theaters on March 20, 2014."	3	2	0
+Rio 2	"Under the supervision of 20th Century Fox—with director Carlos Saldanha and music composer John Powell—the film's natural hometown of Rio de Janeiro, Brazil used the film as a tie-in promotion for the 2014 New Year's Eve celebration at Copacabana Beach."	3	2	0
+Rio 2	Three of four Angry Birds Rio episodes — all visually tied to Rio 2 — have been released.	2	3	0
+Rio 2	"Rio 2 was released on Blu-ray (2D and 3D) and DVD on July 15, 2014."	4	1	0
+Rio 2	The Target exclusive comes with a Blu plush toy.	3	2	0
+Rio 2	Rio 2 received mixed reviews from critics.	4	1	0
+Rio 2	"Review aggregation website Rotten Tomatoes gives the film a score of 48% based on reviews from 105 critics, with an average rating of 5.4/10."	4	1	0
+Rio 2	Who's that toucan again?	4	1	0
+Rio 2	"Rio 2 grossed $131,538,435 in North America, and $368,188,435 in other countries, for a worldwide total of $500,188,435, surpassing its predecessor."	3	2	0
+Rio 2	"A soundtrack for the film was released on March 25, 2014, by Atlantic Records."	4	1	0
+Rio 2	"An additional album featuring John Powell's original score was released on April 8, 2014 by Sony Classical."	3	2	0
+Rio 2	"All music composed by John Powell, except as noted."	3	1	1
+Rio 2	Director Carlos Saldanha has kept the possibility for a Rio 3 open.	1	4	0
+Rio 2	It is the sequel to the 2011 computer-animated film Rio and the studio's first film to have a sequel outside of their existing Ice Age franchise.	2	3	0
+Rio 2	"Despite receiving mixed reviews, the film was a box office success."	3	2	0
+Rio 2	"The film's premiere was held in Miami, Florida on March 20, 2014."	4	1	0
+Rio 2	"The film was released in the United States on April 11, 2014."	3	2	0
+Rio 2	"A limited sing-along edition of the film was released on Blu-ray and DVD on November 4, 2014."	3	2	0
+Rio 2	"In North America, the film earned $12 million on its opening day, and opened to number two in its first weekend, with $39,327,869, behind Captain America: The Winter Soldier."	3	1	1
+Rio 2	"In its second weekend, the film dropped to number three, grossing an additional $22,159,742."	4	1	0
+Rio 2	"In its third weekend, the film dropped to number three, grossing $13,881,457."	3	1	1
+Rio 2	"In its fourth weekend, the film dropped to number five, grossing $7,711,952.Twentieth Century Fox Home Entertainment donated $100,000 to WWF to support conservation efforts in the Amazon."	3	1	1
+Talk to Her	"Talk to Her (Spanish: Hable con ella) is a 2002 Spanish drama written and directed by Pedro Almodóvar, and starring Javier Cámara, Darío Grandinetti, Leonor Watling, Geraldine Chaplin, and Rosario Flores."	2	3	0
+Talk to Her	The film won the 2002 Academy Award for Best Original Screenplay and the 2003 Golden Globe Award for Best Foreign-Language Film.	1	2	2
+Talk to Her	"The film's themes include the difficulty of communication between the sexes, loneliness and intimacy, and the persistence of love beyond loss."	4	1	0
+Talk to Her	"In 2005, Time magazine film critics Richard Corliss and Richard Schickel included Talk to Her in their list of the All-TIME 100 Greatest Movies."	2	3	0
+Talk to Her	Paul Schrader placed the film at 46 on his film canon of the 60 greatest films.	3	2	0
+Talk to Her	"The film was a commercial success, grossing $9,285,469 in the United States and $41,716,081 internationally for a worldwide total of $51,001,550."	4	1	0
+Talk to Her	"Despite the film's success, Talk to Her wasn't submitted as Spain's pick for the Academy Award for Best Foreign Film, as Mondays in the Sun."	2	3	0
+The Commitments (film)	The Commitments is a 1991 comedy-drama film directed by Alan Parker.	4	1	0
+The Commitments (film)	"A film adaptation of Roddy Doyle's novel of the same name, the film tells a story of working class Dubliners who form a soul band."	3	2	0
+The Commitments (film)	"The cast were mostly unknown before filming, chosen for musical rather than acting ability."	3	2	0
+The Commitments (film)	"The Commitments gained a positive reception from critics, as it holds an 88% rating on Rotten Tomatoes based on 40 reviews."	3	2	0
+The Commitments (film)	"The film won the BAFTA Award for Best Film, as well as BAFTA Awards for Best Director, Best Editing (Gerry Hambling), and Best Adapted Screenplay."	1	3	1
+The Commitments (film)	The Commitments was voted best Irish film of all time in a 2005 poll sponsored by Jameson Irish Whiskey and launched a generation of Irish musicians and actors.	3	2	0
+The Commitments (film)	"An image of four of the actors, in character, was featured on an Irish postage stamp as part of the Ireland 1996: Irish Cinema Centenary series issued by An Post."	2	3	0
+The Commitments (film)	"In 2013, a musical stage production of the same name began previews on 21 September in London's West End at the Palace Theatre, before holding its official opening night on 8 October."	3	2	0
+The Commitments (film)	"The musical is based on the 1987 novel, by Roddy Doyle."	3	2	0
+The Commitments (film)	"The stage show was officially confirmed on 19 April 2013, in Ireland, producers announced that the show would play the Palace Theatre, with tickets going on sale everywhere on 23 April."	3	2	0
+The Commitments (film)	"The Commitments (Original Motion Picture Soundtrack), the soundtrack for the film, was released on 13 Aug 1991."	4	1	0
+The Commitments (film)	"Most songs on the album are performed by the cast band, with two by Irish singer Niamh Kavanagh."	3	2	0
+The Commitments (film)	"After the commercial success of the first soundtrack album, a follow-up entitled The Commitments, Vol."	3	2	0
+The Commitments (film)	2: Music From The Original Motion Picture Soundtrack was released in 1992.	3	2	0
+The Commitments (film)	It was filmed on location in Dublin.	4	1	0
+The Commitments (film)	It was nominated for the Golden Globe Award for Best Motion Picture - Musical or Comedy and for the Academy Award for Best Film Editing.	2	3	0
+The Deer Hunter	The Deer Hunter is a 1978 American war drama film co-written and directed by Michael Cimino about a trio of Russian American steelworkers and their service in the Vietnam War.	3	2	0
+The Deer Hunter	"The film stars Robert De Niro, Christopher Walken, John Savage, John Cazale, Meryl Streep, and George Dzundza."	3	2	0
+The Deer Hunter	The film was based in part on an unproduced screenplay called The Man Who Came to Play by Louis Garfinkle and Quinn K. Redeker about Las Vegas and Russian roulette.	3	2	0
+The Deer Hunter	"Producer Michael Deeley, who bought the script, hired writer/director Michael Cimino who, with Deric Washburn, rewrote the script, taking the Russian roulette element and placing it in the Vietnam War."	3	2	0
+The Deer Hunter	"The film won five Academy Awards, including Best Picture, Best Director for Michael Cimino, and Best Supporting Actor for Christopher Walken, and was named by the American Film Institute as the 53rd greatest American film of all time in the 10th Anniversary Edition of the AFI's 100 Years...100 Movies list."	2	2	1
+The Deer Hunter	"While producer Deeley was pleased with the revised script, he was still concerned about being able to sell the film."	4	1	0
+The Deer Hunter	Hiring De Niro turned out to be a casting coup because he knew nearly every actor in New York.	3	2	0
+The Deer Hunter	Each of the six principal male characters carried a photo in their back pockets depicting them all together as children so as to enhance the sense of camaraderie amongst them.	3	2	0
+The Deer Hunter	"In addition to this, director Cimino instructed the props department to fashion complete Pennsylvania IDs for each of them, including driver's licenses, medical cards and various other pieces of paraphernalia, in order to enhance each actor's sense of his character."	2	3	0
+The Deer Hunter	"There has been considerable debate, controversy, and conflicting stories about how The Deer Hunter was initially developed and written."	4	1	0
+The Deer Hunter	"Director and co-writer Michael Cimino, writer Deric Washburn, producers Barry Spikings and Michael Deeley all have different versions of how the film came to be."	3	2	0
+The Deer Hunter	"In 1968, the record company EMI formed a new company called EMI Films, headed by producers Barry Spikings and Michael Deeley."	3	2	0
+The Deer Hunter	"After consulting various Hollywood agents, Deeley found writer-director Michael Cimino, represented by Stan Kamen at the William Morris Agency."	3	2	0
+The Deer Hunter	Cimino worked for six weeks with Deric Washburn on the script.	2	3	0
+The Deer Hunter	"According to Cimino, he would call Washburn while on the road scouting for locations and feed him notes on dialogue and story."	3	2	0
+The Deer Hunter	"According to Washburn, he and Cimino spent three days together in L.A. at the Sunset Marquis, hammering out the plot."	3	2	0
+The Deer Hunter	"The script eventually went through several drafts, evolving into a story with three distinct acts."	3	1	1
+The Deer Hunter	"Deeley felt the revised script, now called The Deer Hunter, broke fresh ground for the project."	3	2	0
+The Deer Hunter	"The protagonist in the Redeker/Garfinkle script, Merle, was an individual who sustained a bad injury in active service and was damaged psychologically by his violent experiences, but was nevertheless a tough character with strong nerves and guts."	1	4	0
+The Deer Hunter	"The Deer Hunter began principal photography on June 20, 1977."	4	1	0
+The Deer Hunter	This was the first feature film depicting the Vietnam War to be filmed on location in Thailand.	3	1	1
+The Deer Hunter	All scenes were shot on location (no sound stages).	2	3	0
+The Deer Hunter	"Before the beginning of principal photography began, Deeley had a meeting with the film's appointed line producer Robert Relyea."	4	1	0
+The Deer Hunter	"Because Deeley was busy overseeing in the production of Sam Peckinpah's Convoy, he hired John Peverall to oversee Cimino's shoot."	4	1	0
+The Deer Hunter	"The wedding scenes were filmed at the historic St. Theodosius Russian Orthodox Cathedral in the Tremont neighborhood of Cleveland, Ohio."	2	3	0
+The Deer Hunter	The wedding took five days to film.	2	3	0
+The Deer Hunter	The production manager asked each of the Russian immigrant extras to bring to the location a gift-wrapped box to double for wedding presents.	2	2	1
+The Deer Hunter	Cimino originally claimed that the wedding scene would take up 21 minutes of screentime.	3	2	0
+The Deer Hunter	"In the end, it took 51 minutes."	5	0	0
+The Deer Hunter	"At this point in the production, nearly halfway through principal photography, Cimino was already overbudget, and producer Spikings could tell from the script that shooting the extended scene could sink the project."	1	4	0
+The Deer Hunter	"The bar was specially constructed in an empty storefront in Mingo Junction, Ohio for $25,000; it later became an actual saloon for local steel mill workers."	3	1	1
+The Deer Hunter	"U.S. Steel allowed filming inside its Cleveland mill, including placing the actors around the furnace floor, only after securing a $5 million insurance policy."	1	4	0
+The Deer Hunter	Other filming took place in Pittsburgh.	5	0	0
+The Deer Hunter	The stag which Michael allows to get away later was actually the same one used on TV commercials for the Connecticut Life Insurance Company.	2	2	1
+The Deer Hunter	"The Viet Cong Russian roulette scenes were shot in real circumstances, with real rats and mosquitoes, as the three principals (De Niro, Walken, and Savage) were tied up in bamboo cages erected along the River Kwai."	0	3	2
+The Deer Hunter	The woman tasked with casting the extras in Thailand had much difficulty finding a local to play the vicious individual who runs the Russian roulette game.	3	2	0
+The Deer Hunter	The first actor hired turned out to be incapable of slapping De Niro in the face.	3	1	1
+The Deer Hunter	The caster thankfully knew a local Thai man with a particular dislike of Americans and cast him accordingly.	1	4	0
+The Deer Hunter	"De Niro and Savage performed their own stunts in the fall into the river, filming the 30&#160;ft drop 15 times in two days."	2	3	0
+The Deer Hunter	"According to Cimino, De Niro requested a live cartridge in the revolver for the scene in which he subjects John Cazale's character to an impromptu game of Russian roulette, to heighten the intensity of the situation."	2	2	1
+The Deer Hunter	"While appearing later in the film, the first scenes shot upon arrival in Thailand are the hospital sequences between Walken and the military doctor."	2	3	0
+The Deer Hunter	"In the final scene in the gambling den between Mike and Nick, Cimino had Walken and De Niro improvise in one take."	1	4	0
+The Deer Hunter	"By this point, The Deer Hunter had cost $13 million and the film still had to go through an arduous post-production."	2	3	0
+The Deer Hunter	"Film editor Peter Zinner was given 600,000&#160;feet of printed film to edit, a monumental task at the time."	1	3	1
+The Deer Hunter	"Producers Spikings and Deeley were pleased with the first cut, which ran for three-and-a-half hours."	3	2	0
+The Deer Hunter	"Executives from Universal, including Lew Wasserman and Sid Sheinberg, were not very enthusiastic."	3	2	0
+The Deer Hunter	"Zinner eventually cut the film down to 18,000&#160;feet."	3	2	0
+The Deer Hunter	The Deer Hunter was Cimino's first film to use Dolby noise-reduction system.	1	4	0
+The Deer Hunter	"Both the long and short versions were previewed to Midwestern audiences, although there are different accounts among Cimino, Deeley and Spikings as to how the previews panned out."	4	1	0
+The Deer Hunter	"The soundtrack to The Deer Hunter was released on audio CD on October 25, 1990."	4	1	0
+The Deer Hunter	"The Deer Hunter debuted at one theater each in New York and Los Angeles for a week on December 8, 1978."	4	1	0
+The Deer Hunter	The release strategy was to qualify the film for Oscar consideration and close after a week to build interest.	3	2	0
+The Deer Hunter	"After the Oscar nominations, Universal widened the distribution to include major cities, building up to a full-scale release on February 23, 1979, just following the Oscars."	3	2	0
+The Deer Hunter	CBS paid $3.5 million for three runs of the film.	3	2	0
+The Deer Hunter	The network later cancelled the acquisition on the contractually permitted grounds of the film containing too much violence for US network transmission.	3	2	0
+The Deer Hunter	"One of the most talked-about sequences in the film, the Vietcong's use of Russian roulette with POWs, was criticized as being contrived and unrealistic since there were no documented cases of Russian roulette in the Vietnam War."	2	3	0
+The Deer Hunter	"During the 29th Berlin International Film Festival in 1979, the Soviet delegation expressed its indignation with the film which, in their opinion, insulted the Vietnamese people in numerous scenes."	2	2	1
+The Deer Hunter	Maybe it did.	5	0	0
+The Deer Hunter	The film's initial reviews were largely enthusiastic.	4	1	0
+The Deer Hunter	"However, The Deer Hunter was not without critical backlash, especially in light of the film's controversial use of Russian roulette at its center."	3	2	0
+The Deer Hunter	"The film holds a metascore of 73 on Metacritic, based on 7 reviews, and 92% fresh rating on Rotten Tomatoes, based on 48 reviews."	3	2	0
+The Deer Hunter	The RT summary reads:	4	1	0
+The Deer Hunter	"Its greatness is blunted by its length and one-sided point of view, but the film's weaknesses are overpowered by Michael Cimino's sympathetic direction and a series of heartbreaking performances from Robert De Niro, Meryl Streep, and Christopher Walken."	3	2	0
+The Deer Hunter	Academy Award-winning film director Miloš Forman and Academy Award-nominated actor Mickey Rourke consider The Deer Hunter to be one of the greatest films of all time.	2	3	0
+The Deer Hunter	"Cimino's next film, Heaven's Gate, debuted to lacerating reviews and took in only $3 million in ticket sales, effectively leaving United Artists bankrupt."	2	3	0
+The Deer Hunter	"However, many critics maintain that The Deer Hunter is still a great film whose power hasn't diminished, including David Thomson and A. O. Scott."	3	2	0
+The Deer Hunter	"According to producer Deeley, orchestrated lobbying against The Deer Hunter was led by Warren Beatty, whose own picture Heaven Can Wait had multiple nominations."	3	2	0
+The Deer Hunter	"As the Oscars drew near, the backlash against The Deer Hunter gathered strength."	4	1	0
+The Deer Hunter	"When the limos pulled up to the Dorothy Chandler Pavilion on April 9, 1979, they were met by demonstrators, mostly from the Los Angeles chapter of Vietnam Veterans Against the War."	3	2	0
+The Deer Hunter	De Niro was so anxious that he did not attend the Oscars ceremony.	1	3	1
+The Deer Hunter	The Deer Hunter won five Oscars at the 51st Academy Awards in 1979:	2	3	0
+The Deer Hunter	"In addition, the film was nominated in four other categories:"	3	1	1
+The Deer Hunter	Cimino won the film's only Golden Globe Award for Best Director.	1	3	1
+The Deer Hunter	"The Deer Hunter was one of the first, and most controversial, major theatrical films to be critical of the American involvement in Vietnam following 1975 when the war officially ended."	2	3	0
+The Deer Hunter	"More or less before the late 1970s, the movies had lived by a Second World War code in which battle scenes might be fierce but always rigorously controlled."	4	1	0
+The Deer Hunter	In a 2011 interview with Rotten Tomatoes.	4	1	0
+The Deer Hunter	The deaths of approximately twenty-five people who died playing Russian roulette were reported as having been influenced by scenes in the movie.	0	4	1
+The Deer Hunter	"The film ranks 467th in the Empire magazine's 2008 list of the 500 greatest movies of all time, noting:"	3	2	0
+The Deer Hunter	"Cimino's bold, powerful 'Nam epic goes from blue-collar macho rituals to a fiery, South East Asian hell and back to a ragged singalong of America The Beautiful."	3	2	0
+The Deer Hunter	"Jan Scruggs, a Vietnam veteran who became a counselor with the U.S. Department of Labor, thought of the idea of building a National Memorial for Vietnam Veterans after seeing a screening of the film in March 1979, and he established and operated the memorial fund which paid for it."	1	3	1
+The Deer Hunter	The Deer Hunter has twice been released on DVD in America.	3	2	0
+The Deer Hunter	"The first 1998 issue was by Universal, with no extra features and a non-anamorphic transfer, and has since been discontinued."	4	1	0
+The Deer Hunter	"The film was released on HD DVD on December 26, 2006."	4	1	0
+The Deer Hunter	It's lies.	5	0	0
+The Deer Hunter	"It was a classic case: you get a dummy, get him to write the goddamn thing, tell him to go fuck himself, put your name on the thing, and he'll go away."	3	2	0
+The Deer Hunter	It was The Deer Hunter and the Hunter and the Hunter.	4	1	0
+The Deer Hunter	It was said that the scenes in Saigon were fanciful or imagined.	4	1	0
+The Deer Hunter	"It was also suggested that De Niro, Christopher Walken, and John Savage were too old to have enlisted for Vietnam (Savage, the youngest of the three, was 28)."	2	3	0
+The Deer Hunter	It was something very different.	5	0	0
+The Deer Hunter	It wasn't about drugs or the collapse of the morale of the soldiers.	5	0	0
+The Deer Hunter	It was about how individuals respond to pressure: different men reacting quite differently.	3	2	0
+The Deer Hunter	It was hailed by many critics as the best American epic since Francis Ford Coppola's The Godfather.	2	3	0
+The Deer Hunter	"It was released on Blu-ray in the U.S. on March 6, 2012."	4	1	0
+The Deer Hunter	The film went over-budget and over-schedule and ended up costing $15 million.	3	2	0
+The Deer Hunter	"In the original script, the roles of Merle (later renamed Mike) and Nick were reversed in the last half of the film."	3	2	0
+The Deer Hunter	The film was shot over a period of six months.	2	3	0
+The Deer Hunter	The initial budget of the film was $8.5 million.	4	1	0
+The Deer Hunter	Producer Deeley has said that Cimino shot the brutal Vietcong Russian roulette scenes brilliantly and more efficiently than any other part of the film.	3	2	0
+The Deer Hunter	Footage of this is included in the film.	4	1	0
+The Deer Hunter	"Deeley did agree with Universal that the film needed to be shorter, not just because of pacing but also to ensure commercial success."	4	1	0
+The Deer Hunter	The film took five months to mix the soundtrack.	3	2	0
+The Deer Hunter	"Another sequence recreated the 1975 American evacuation of Saigon; Cimino brought the film's composer, Stanley Myers, out to the location to listen to the auto, tank, and jeep horns as the sequence was being photographed."	3	2	0
+The Deer Hunter	The film eventually grossed $48.9 million at the US box office.	4	1	0
+The Deer Hunter	"Producer Spikings, while proud of the film, regrets the way the Vietnamese were portrayed."	3	2	0
+The Deer Hunter	The film was about three steel workers in extraordinary circumstances.	4	1	0
+The Deer Hunter	"The film was praised for its depiction of working-class settings and environment; Cimino's direction of the performances by De Niro, Walken, Streep, Savage, Dzundza and Cazale; the symphonic shifts of tone and pacing in moving from America to Vietnam; the tension during the Russian roulette scenes; and the themes of American disillusionment."	2	3	0
+The Deer Hunter	Deeley added that Carr's promotion of the film was influential in positioning The Deer Hunter for Oscar nominations.	3	2	0
+The Deer Hunter	"Beatty also used ex-girlfriends in his campaign: Julie Christie, serving on the jury at the Berlin Film Festival where Deer Hunter was screened, joined the walkout of the film by the Russian jury members."	3	2	0
+The Deer Hunter	"Fonda replied she had not seen the film, and to this day she still has not."	3	2	0
+The Deer Hunter	"Other nominations the film included Best Motion Picture – Drama, De Niro for Best Motion Picture Actor – Drama, Walken for Best Motion Picture Actor in a Supporting Role, Streep for Best Motion Picture Actress in a Supporting Role, and Washburn for Best Screenplay – Motion Picture."	0	5	0
+The Deer Hunter	"While the film opened the same year as Hal Ashby's Coming Home, Sidney Furie's The Boys in Company C, and Ted Post's Go Tell the Spartans, it was the first film about Vietnam to reach a wide audience and critical acclaim, culminating in the winning of the Oscar for Best Picture."	2	2	1
+The Deer Hunter	"StudioCanal released the film on the Blu-ray format in countries other than the United States on March 11, 2009."	3	2	0
+The Incredibles	The Incredibles is a 2004 American computer-animated comedy superhero film written and directed by Brad Bird and released by Walt Disney Pictures.	3	2	0
+The Incredibles	"Bird, who was Pixar's first outside director, developed the film as an extension of 1960s comic books and spy films from his boyhood and personal family life."	3	2	0
+The Incredibles	"The film premiered on October 27, 2004 at the BFI London Film Festival and had its general release in the United States on November 5, 2004."	3	2	0
+The Incredibles	"The Incredibles as a concept dates back to 1993, when Bird sketched the family during a period in which he tried to break into film."	3	2	0
+The Incredibles	He imagined it as an homage to the 1960s comic books and spy films from his boyhood and he initially tried to develop it as a traditionally animated film.	4	1	0
+The Incredibles	"Bird came to Pixar with the lineup of the story's family members worked out: a mom and dad, both suffering through the dad's midlife crisis; a shy teenage girl; a cocky ten-year-old boy; and a baby."	4	1	0
+The Incredibles	"Upon Pixar's acceptance of the project, Brad Bird was asked to bring in his own team for the production."	3	2	0
+The Incredibles	"For the technical crew members, the film's human characters posed a difficult set of challenges."	4	1	0
+The Incredibles	Bird's story was filled with elements that were difficult to animate with CGI at the time.	3	2	0
+The Incredibles	Humans are widely considered to be the most difficult thing to execute in animation.	3	1	1
+The Incredibles	Pixar animators filmed themselves walking to better grasp proper human motion.	0	5	0
+The Incredibles	"Creating an all-human cast required creating new technology to animate detailed human anatomy, clothing and realistic skin and hair."	1	3	1
+The Incredibles	"The Incredibles not only dealt with the trouble of animating CG humans, but also many other complications."	3	2	0
+The Incredibles	"The story was bigger than any prior story at the studio, was longer in running time, and had four times the number of locations."	2	3	0
+The Incredibles	The challenges did not stop with modeling humans.	3	2	0
+The Incredibles	"Bird decided that in a shot near the film's end, baby Jack-Jack would undergo a series of transformations, and in one of the five planned he would turn himself into a kind of goo."	3	2	0
+The Incredibles	The Incredibles is the first Pixar film to be scored by Michael Giacchino.	3	2	0
+The Incredibles	"The film's orchestral score was released on November 2, 2004, three days before the film opened in theaters."	4	1	0
+The Incredibles	"Several film reviewers drew precise parallels between the film and certain superhero comic books, like Powers, Watchmen, and Fantastic Four."	3	2	0
+The Incredibles	"The film also explored Bird's dislike for the tendency of the children's comics and Saturday morning cartoons of his youth to portray villains as unrealistic, ineffectual, and non-threatening."	3	2	0
+The Incredibles	"In March 2014, Disney CEO and chairman Bob Iger announced that the film will be reformatted and re-released in 3D."	2	3	0
+The Incredibles	"The film's 2-disc Collector's Edition DVD set was released on March 15, 2005."	4	1	0
+The Incredibles	"The DVD release also includes Jack-Jack Attack and Mr. Incredible and Pals, two Pixar short films made especially for the release of The Incredibles, and Boundin '​, a Pixar short film which premiered with The Incredibles in theaters."	2	3	0
+The Incredibles	"The film received a 97% approval rating at Rotten Tomatoes which as of October 2014, made the movie the tenth most highly rated animated film of all time."	4	1	0
+The Incredibles	"Despite concerns that the film would receive underwhelming results, the films domestic gross was $70,467,623 in its opening weekend from 7,600 screens at 3,933 theaters, averaging $17,917 per theater or $9,272 per screen, the highest opening weekend gross for a Pixar film (the record was later broken in 2010 by Toy Story 3, with $110,307,189), the highest November opening weekend for a Disney film (the record was broken in 2013 by Thor: The Dark World with $85.7 million), the highest-opening weekend for a non-sequel animated feature (the record was broken in 2007 by The Simpsons Movie, with $74,036,787), and the highest opening weekend for a non-franchise-based film for just over five years when Avatar opened with $77,025,481."	1	3	1
+The Incredibles	"The film won the Academy Awards for Best Animated Feature, beating two DreamWorks films, Shrek 2 and Shark Tale, as well as Best Sound Editing at the 77th Academy Awards."	1	3	1
+The Incredibles	"The film also received the 2004 Annie Award for Best Animated Feature and the 2005 Hugo Award for Best Dramatic Presentation, Long Form, and it was nominated for the 2004 Golden Globe Award for Best Motion Picture – Musical or Comedy."	0	4	1
+The Incredibles	Several companies released promotional products related to the film.	2	3	0
+The Incredibles	"In Europe, Kinder chocolate eggs contained small plastic toy characters from the film."	1	4	0
+The Incredibles	"In July 2008, it was announced that a series of comic books based on the film would be published by BOOM! Studios in collaboration with Disney Publishing by the end of the year."	4	1	0
+The Incredibles	"The first miniseries by BOOM! was The Incredibles: Family Matters by Mark Waid and Marcio Takara, which was published from March to June 2009, and collected into a trade paperback published in July of that year."	4	1	0
+The Incredibles	"An ongoing series written by both Mark Waid and Landry Walker, with art by Marcio Takara and Ramanda Kamarga, began later that same year, running for sixteen issues before being cancelled in October 2010."	4	1	0
+The Incredibles	"A video game based on the film was released for the PlayStation 2, Xbox, Nintendo GameCube, Game Boy Advance, PC, Apple Macintosh, and mobiles."	2	3	0
+The Incredibles	"In 2004, when Disney owned sequel rights, Disney announced plans to make sequels for The Incredibles and Finding Nemo without Pixar involvement."	3	2	0
+The Incredibles	"When Disney acquired Pixar in 2006, the expectation of Disney was that Pixar would create more sequels and bankable franchises."	2	3	0
+The Incredibles	"During an interview in May 2013, Bird reiterated his interest in making a sequel."	4	1	0
+The Incredibles	"At the Disney shareholders meeting in March 2014, Disney CEO and chairman Bob Iger confirmed that Pixar is working on another The Incredibles film, with Bird returning as writer."	3	2	0
+The Incredibles	"Later that month, Samuel L. Jackson told Digital Spy that he would likely reprise his role as Frozone in the sequel."	3	2	0
+The Incredibles	It was the sixth film produced by Pixar Animation Studios.	4	1	0
+The Incredibles	It became the first entirely animated film to win the prestigious Hugo Award for Best Dramatic Presentation.	1	3	1
+The Incredibles	It was an extension of the Pixar custom of tapping in-house staff whose voices came across particularly well on scratch dialogue tracks.	3	2	0
+The Incredibles	"It won numerous awards for best score including Los Angeles Film Critics Association Award, BMI Film &amp; TV Award, ASCAP Film and Television Music Award, Annie Award, Las Vegas Film Critics Society Award and Online Film Critics Society Award and was nominated for Grammy Award for Best Score Soundtrack for Visual Media, Satellite Award and Broadcast Film Critics Association Award."	0	4	1
+The Incredibles	Its theatrical release was accompanied with a Pixar short film Boundin'.	3	2	0
+The Incredibles	"It was released on Blu-ray in North America on April 12, 2011."	4	1	0
+The Incredibles	It is also the second highest-grossing 2004 animated film behind Shrek 2 ($919.8 million).	2	2	1
+The Incredibles	"It also received nominations for Best Original Screenplay (for writer/director Brad Bird) and Best Sound Mixing (Randy Thom, Gary Rizzo and Doc Kane)."	1	3	1
+The Incredibles	"It was Pixar's first feature film to win multiple Oscars, followed in 2010 by Up."	1	3	1
+The Incredibles	It also won the Saturn Award for Best Animated Film.	3	2	0
+The Incredibles	It is a collection of 10 games and activities for the playable characters to perform.	3	2	0
+The Incredibles	"It features characters and missions from five Pixar's films: The Incredibles, Up, Cars, Ratatouille and Toy Story."	0	5	0
+The Incredibles	The film's title is the name of a family of superheroes who are forced to hide their powers and live a quiet suburban life.	2	3	0
+The Incredibles	"He pitched the film to Pixar after the box office disappointment of his first feature, The Iron Giant (1999), and carried over much of its staff to develop The Incredibles."	2	3	0
+The Incredibles	Michael Giacchino composed the film's orchestral score.	4	1	0
+The Incredibles	"The film performed well at the box office, grossing $631 million worldwide during its original theatrical run."	2	2	1
+The Incredibles	"Lasseter was sold on the idea and convinced Bird to come to Pixar, where the film would be done in computer animation."	3	2	0
+The Incredibles	"During production, Hayao Miyazaki of Studio Ghibli visited Pixar and saw the film's story reels."	2	3	0
+The Incredibles	"The film's characters were designed by Tony Fucile and Teddy Newton, whom Bird had brought with him from Warner Bros. Like most computer-animated films, The Incredibles had a year-long period of building the film from the inside out: modeling the exterior and understanding controls that work face and body — the articulation of the character — before animation could even begin."	3	2	0
+The Incredibles	"Disney was initially reluctant to make the film because of these issues, feeling a live-action film would be preferable, though Lasseter vetoed this."	4	1	0
+The Incredibles	"The film's organizational structure could not be mapped out like previous Pixar features, and it became a running joke to the team."	3	2	0
+The Incredibles	"There were 781 visual effects shots in the film and they were quite often the gag, such as the shattering when Bob angrily shuts the car door."	2	3	0
+The Incredibles	"They petitioned to the film's producer, John Walker for help."	4	1	0
+The Incredibles	"Bird, who had brought Walker over from Warner Bros., took great exception to the idea that Jack-Jack could undergo a mere four transformations and that the film could do without the goo-baby."	3	2	0
+The Incredibles	Brad Bird was looking for a specific sound as inspired by the film's design — the future as seen from the 1960s.	3	2	0
+The Incredibles	"John Barry was the first choice to do the film's score, with a trailer of the film given a rerecording of Barry's theme to On Her Majesty's Secret Service."	1	4	0
+The Incredibles	"Wallin noted that brass instruments, which are at the forefront of the film's score, sound better on analog equipment rather than digital."	2	3	0
+The Incredibles	"In the film, Dash and Violet have to deal with villains who are perfectly willing to use deadly force against children."	2	3	0
+The Incredibles	The film was also released on UMD for the Sony PSP.	4	1	0
+The Incredibles	"There was also a VHS release to the film on March 15, 2005, notably the last Disney/Pixar film to be widely issued in VHS format (not counting Pixar's later film Cars; whose VHS release was extremely rare)."	1	3	1
+The Incredibles	"Similarly, Jessica Winter of The Village Voice criticized the film for playing as a standard summer action film, despite being released in early November."	4	1	0
+The Incredibles	IGN ranked the film as the third favorite animated film of all time in a list published in 2010.	2	3	0
+The Incredibles	"The film was also number 1 in its second weekend, grossing another $50,251,359, dropping just 29 percent, and easily out-grossing new animated opener The Polar Express."	4	1	0
+The Incredibles	"The film ultimately grossed $261,441,092, as the sixth highest-grossing Pixar film behind Toy Story 3 ($415.0"	1	3	1
+The Incredibles	"Worldwide, the film grossed $631,442,092, is the fifth highest-grossing Pixar film behind Toy Story 3 ($1.063"	4	1	0
+The Incredibles	Dark Horse Comics released a limited series of comic books based on the film.	2	3	0
+The Incredibles	Pringles included potato chips featuring the superheroes and quotes from the film.	3	2	0
+The Incredibles	"Toy maker Hasbro produced a series of action figures and toys based on the film, although the line was not as successful as the film itself."	2	3	0
+The Incredibles	"In the United Kingdom, Telewest promoted blueyonder internet services with branding from the film, including television adverts starring characters from the film."	2	3	0
+The Incredibles	"In all merchandising outside of the film itself, Elastigirl is referred to as Mrs. Incredible."	4	1	0
+The Incredibles	"Though based on the film, several key scenes are altered from the original script."	3	2	0
+The Incredibles	"Taking place immediately after the film, the sequel focuses on Mr. Incredible and Frozone as they do battle with the megalomaniacal mole, The Underminer."	4	1	0
+Transformers Dark of the Moon	Transformers: Dark of the Moon (or simply Transformers 3) is a 2011 American science fiction action film based on the Transformers toy line.	2	3	0
+Transformers Dark of the Moon	"First released on June 23, 2011, it is the third installment of the live-action Transformers film series."	3	2	0
+Transformers Dark of the Moon	"Shia LaBeouf, Josh Duhamel, Tyrese Gibson, and John Turturro reprised their starring roles, with Peter Cullen and Hugo Weaving returning as the voices of Optimus Prime and Megatron, and Kevin Dunn and Julie White reprising their roles Sam Witwicky's parents."	2	3	0
+Transformers Dark of the Moon	"English model Rosie Huntington-Whiteley replaced Megan Fox as the lead female character; the cast also saw the additions of Patrick Dempsey, John Malkovich, Ken Jeong, and Frances McDormand."	3	2	0
+Transformers Dark of the Moon	"The film also welcomed Keith Szarabajka, Ron Bottitta, John DiMaggio, George Coe, Francesco Quinn, James Remar, Greg Berg, and veteran science-fiction actor Leonard Nimoy to the voice cast."	2	3	0
+Transformers Dark of the Moon	"The script was written by Ehren Kruger, who also collaborated on the narrative of the 2009 film."	3	2	0
+Transformers Dark of the Moon	"Dark of the Moon employed both regular 35mm film cameras and specially-developed 3-D cameras, with filming locations in Chicago, Florida, Indiana, Milwaukee, Moscow, and Washington, D.C.."	1	4	0
+Transformers Dark of the Moon	"In May 2011, it was announced that Paramount would move Transformers: Dark of the Moon '​s release date of July 1 to June 29 in order to monitor an early response to footage."	3	2	0
+Transformers Dark of the Moon	"Exclusive early premieres in select 3-D and IMAX theaters took place June 28, 2011, one night before worldwide release in 2-D and 3-D (including IMAX 3D) formats—each featuring Dolby Surround 7.1 sound."	3	2	0
+Transformers Dark of the Moon	"Critical reception of the film was mixed, with several critics calling it better than Revenge of the Fallen and praising the film's visuals, musical score, and 3-D action sequences, but criticizing its writing, acting, and length."	3	2	0
+Transformers Dark of the Moon	"Dark of the Moon grossed US$1.12 billion worldwide, and is currently the seventh-highest-grossing film of all time, the second-highest-grossing film of 2011 (behind Harry Potter and the Deathly Hallows – Part 2), the highest-grossing film in the Transformers series, and the tenth film to gross over $1 billion."	3	1	1
+Transformers Dark of the Moon	"Like the 2007 film, it was nominated for Best Sound Editing, Best Sound Mixing, and Best Visual Effects at the 84th Academy Awards."	3	1	1
+Transformers Dark of the Moon	"On October 1, 2009, Bay revealed that Transformers: Dark of the Moon had already gone into pre-production, and its planned release was back to its originally intended date of July 1, 2011, rather than 2012."	2	3	0
+Transformers Dark of the Moon	"In a hidden extra for the Blu-ray version of Revenge of the Fallen, Bay expressed his intention to make Transformers&#160;3 not necessarily larger than Revenge of the Fallen, but instead deeper into the mythology, to give it more character development, and to make it darker and more emotional."	4	1	0
+Transformers Dark of the Moon	"Megan Fox was originally attached to the film, and Patrick Dempsey's role as Dylan Gould was to be the employer of Fox's character, Mikaela Banes."	3	2	0
+Transformers Dark of the Moon	"With Fox not reprising her role, Rosie Huntington-Whiteley was chosen to play Sam's new love interest."	4	1	0
+Transformers Dark of the Moon	"Ramón Rodríguez was initially planned to be in the film, in a role bigger than the one he had in Revenge of the Fallen, but he was dropped during early production."	3	2	0
+Transformers Dark of the Moon	"Unlike the two previous Transformers installments, which were based solely on the script writers' endemic story, Transformers: Dark of the Moon was based on a novel called Transformers: Ghosts of Yesterday, written by Alan Dean Foster."	3	2	0
+Transformers Dark of the Moon	"Similar to the previous two installments, the film was told in the human point-of-view to engage the audience."	3	2	0
+Transformers Dark of the Moon	"Transformers: Dark of the Moon's production cost was reported $195 million, with the cost of the 3-D filming accounting at $30 million of the budget."	3	2	0
+Transformers Dark of the Moon	"Preparation for filming began on April 7, 2010 in Northwest Indiana, specifically around Gary, which portrayed Ukraine in the film."	2	2	1
+Transformers Dark of the Moon	"Principal photography commenced on May 18, 2010, with shooting locations including Chicago, Florida, and Moscow."	3	2	0
+Transformers Dark of the Moon	"While filming in Washington, D.C., the crew shot on the National Mall, and Bay stated that there would be a car race on the location."	4	1	0
+Transformers Dark of the Moon	"Two further locations announced were the Milwaukee Art Museum and the former Tower Automotive complex on Milwaukee's north side, then under redevelopment for mixed use as well as the city's equipment yard."	3	2	0
+Transformers Dark of the Moon	Filming was scheduled to take place there after work was done in Chicago.	4	1	0
+Transformers Dark of the Moon	"On September 23, scenes were filmed at the former city hall in Detroit."	2	3	0
+Transformers Dark of the Moon	"On October 16, a scene in the later 1960s was shot at the Johnson Space Center in Houston, utilizing extras with period fashion and hairstyles."	1	4	0
+Transformers Dark of the Moon	One day of shooting was also spent at the Angkor Wat temple complex in Cambodia.	4	1	0
+Transformers Dark of the Moon	"Dark of the Moon has been found to contain recycled footage from an earlier film directed by Michael Bay, The Island."	1	3	1
+Transformers Dark of the Moon	"Filming was temporarily delayed on September 2, 2010, when an extra was seriously injured during a stunt in Hammond, Indiana."	3	2	0
+Transformers Dark of the Moon	"A second accident occurred on October 11, 2010, in Washington, D.C."	5	0	0
+Transformers Dark of the Moon	"While filming a chase scene at 3rd Street and Maryland Avenue, SW, a Metropolitan Police K9 Unit SUV accidentally rammed the Camaro that portrays Bumblebee in the film."	2	2	1
+Transformers Dark of the Moon	"As with the previous Transformers installments, Industrial Light &amp; Magic (ILM) was the main visual effects company for Dark of the Moon."	3	2	0
+Transformers Dark of the Moon	"In Revenge of the Fallen, it took 72 hours per frame to fully render Devastator for the IMAX format, which is approximately a frame amount of 4,000."	3	2	0
+Transformers Dark of the Moon	"The scenes in Chicago were mostly shot on location, as Bay believed the plates had to really be shot in the actual city."	3	2	0
+Transformers Dark of the Moon	"Farrar was always fascinated with the idea of shooting on location, and then blending the film with computer-generated imagery."	3	2	0
+Transformers Dark of the Moon	"Composer Steve Jablonsky, who had before collaborated with Bay on The Island and the first two Transformers films, returned to compose the Dark of the Moon score."	3	2	0
+Transformers Dark of the Moon	"The score soundtrack was released on June 24, 2011, five days before the actual release of the film."	2	3	0
+Transformers Dark of the Moon	"Although a bit more score-heavy this time around, the soundtrack is certainly featured and we not only rejoin characters we have come to know, but some familiar artists who are back again as well."	3	2	0
+Transformers Dark of the Moon	"The album was originally set for release in June 28, 2011, but Amazon.com"	4	1	0
+Transformers Dark of the Moon	"Most of the characters returned for Hasbro's new toyline, which was released on May 16, 2011."	2	3	0
+Transformers Dark of the Moon	"In October 2010, Entertainment Tonight previewed the behind-the-scenes filming in Chicago."	4	1	0
+Transformers Dark of the Moon	"A two-minute teaser trailer was announced on November 27, and was posted to the Internet on December 9, 2010."	4	1	0
+Transformers Dark of the Moon	"A 30 second television advertisement for the film aired during Super Bowl XLV on Fox on February 6, 2011."	4	1	0
+Transformers Dark of the Moon	"The first full theatrical trailer was released on April 28, 2011."	3	2	0
+Transformers Dark of the Moon	"In May 2011, the novelization, junior novel, and graphic novel of Transformers: Dark of the Moon were released."	2	3	0
+Transformers Dark of the Moon	All humankind was watching that day in 1969.	4	1	0
+Transformers Dark of the Moon	And yet only a handful knew the real mission behind America’s triumph in the space race: to explore the alien ship that has crashed on the far side of the moon.	4	1	0
+Transformers Dark of the Moon	"Decades later, scientists are still struggling to understand the technology found on board—though with the treacherous Decepticons after it, a powerful force must be at stake."	3	2	0
+Transformers Dark of the Moon	"The only hope of averting a crisis is to reawaken Sentinel Prime, the long-lost leader of the Autobots—but who knows what else remains in the shadows, hidden from man and machine?"	3	2	0
+Transformers Dark of the Moon	"On June 14, 2011, Activision published a video game based on Dark of the Moon for the Xbox 360, PlayStation 3, Wii, Nintendo DS and Nintendo 3DS."	3	2	0
+Transformers Dark of the Moon	"The versions for Nintendo's consoles were developed by Behaviour Interactive, while the versions for the rest of the consoles were developed by High Moon Studios, who had previously developed Transformers: War for Cybertron."	2	3	0
+Transformers Dark of the Moon	"Transformers: Dark of the Moon first premiered at the Moscow International Film Festival on June 23, 2011."	2	3	0
+Transformers Dark of the Moon	Linkin Park performed a special outdoor concert in Red Square in Moscow on the same night in celebration of the event.	2	3	0
+Transformers Dark of the Moon	"Initially scheduled to be released on July 1, 2011, the release was brought forward to June 29, 2011."	3	2	0
+Transformers Dark of the Moon	"It was announced in November 2010 that unlike Transformers: Revenge of the Fallen, no scenes in the film were shot with IMAX cameras."	3	2	0
+Transformers Dark of the Moon	"While many critics praised the film's visual effects and 3-D action sequences, criticism was directed towards the film's long running time, acting, and script."	2	3	0
+Transformers Dark of the Moon	Several critics also felt that Dark of the Moon failed to live up to the first Transformers film.	4	1	0
+Transformers Dark of the Moon	"Roger Ebert gave the film one out of four stars, criticizing its visuals, plot, characters, and dialog."	4	1	0
+Transformers Dark of the Moon	Several critics felt that Shia LaBeouf and Rosie Huntington-Whiteley's performances were ineffective.	4	1	0
+Transformers Dark of the Moon	"For good or ill, Bay is the soul of a new machine, the poet of post-human cinema, the CEO of Hollywood's military-entertainment complex."	4	1	0
+Transformers Dark of the Moon	"In a more positive review, Steve Prokopy of Ain't It Cool News found the film to better than the first two."	3	2	0
+Transformers Dark of the Moon	Many reviews praised the film's special effects and aggressive use of 3-D.	4	1	0
+Transformers Dark of the Moon	"Transformers: Dark of the Moon grossed $352,390,543 in North America, and $771,403,536 in other territories, for a worldwide total of $1,123,794,079."	3	1	1
+Transformers Dark of the Moon	"Worldwide, it is the seventh highest-grossing film, the second highest-grossing 2011 film, the highest-grossing film of the Transformers series, the second highest-grossing film by Paramount (behind Titanic), the second highest-grossing threequel (behind Iron Man 3), and the highest-grossing Hasbro film as of 2013."	2	3	0
+Transformers Dark of the Moon	"The film opened in 4,088 theaters including a then-record total of 2,789 3D locations."	2	3	0
+Transformers Dark of the Moon	"The film grossed $32.5 million on its opening day, pacing 38% ahead of its predecessor."	0	4	1
+Transformers Dark of the Moon	"In China, its highest-grossing market after North America, the film set records for an opening day with $15.9 million, a single day with $17.4 million (overtaken by Journey to the West: Conquering the Demons) and an opening weekend with $46.8 million ($62.7 million with previews)."	3	1	1
+Transformers Dark of the Moon	The latter was taken from Avatar ($42.0 million).	4	1	0
+Transformers Dark of the Moon	"During Hasbro Investor Day, it was announced that the DVD and Blu-ray disc would be released in the fourth quarter of 2011."	3	2	0
+Transformers Dark of the Moon	"However, the first home release was criticized for the lack of bonus features."	4	1	0
+Transformers Dark of the Moon	"A Walmart exclusive edition of Transformers: Dark of the Moon also was released on September 30, 2011."	4	1	0
+Transformers Dark of the Moon	"In North America, it sold 716,218 DVD units (equivalent of $13,565,169) in its first week, topping the weekly DVD chart."	3	2	0
+Transformers Dark of the Moon	"As of February 26, 2012[update, it has sold 2,829,285 DVD units (equivalent of $48,058,979)."	2	3	0
+Transformers Dark of the Moon	"The aftermarket multimedia bundle Transformers: Dark Side of the Moon consists of a DVD or Blu-ray copy of Transformers: Dark of the Moon and a CD or digital copy of Pink Floyd's Dark Side of the Moon, intended to be synchronized by setting one's CD or media file player to repeat mode and relatively high volume, turning the audiovisual volume down or off, playing the DVD or Blu-ray disc, and starting the CD as the final star in the Paramount logo appears."	1	4	0
+Transformers Dark of the Moon	"Main articles: Transformers: Age of Extinction, and Transformers 5"	4	1	0
+Transformers Dark of the Moon	"The fourth Age of Extinction was released June 27, 2014."	3	2	0
+Transformers Dark of the Moon	And the fifth as of now titled Transformers 5 is scheduled for a summer 2016 release.	4	1	0
+Transformers Dark of the Moon	It is a sequel to 2009's Transformers: Revenge of the Fallen taking place three years after that.	3	2	0
+Transformers Dark of the Moon	It was amazing.	4	1	0
+Transformers Dark of the Moon	"It follows the same story structure as Dark of the Moon, being set in 1969, the year of Apollo 11."	2	3	0
+Transformers Dark of the Moon	It's not three multiple endings.	4	1	0
+Transformers Dark of the Moon	"It was available for download on Amazon on June 30, 2011, and the score currently features 17 pre-recorded tracks that are featured in the final film."	3	2	0
+Transformers Dark of the Moon	"It consists of singles produced by different artists and bands, and rock and alternative tracks."	3	2	0
+Transformers Dark of the Moon	Its synopsis is:	4	1	0
+Transformers Dark of the Moon	"It is also the tenth film in cinematic history to earn more than $1,000 million, and the fifth-fastest film to achieve this."	2	3	0
+Transformers Dark of the Moon	Its worldwide opening weekend ($382.4 million) is the fourth-largest ever and the largest for Paramount.	1	3	1
+Transformers Dark of the Moon	It set an IMAX worldwide opening-weekend record with $23.1 million (first surpassed by Deathly Hallows - Part 2).	3	1	1
+Transformers Dark of the Moon	"It reached $400M (6 days), $500M (9 days), $600M (12 days) and $700M (16 days) in record time, but lost all records to Deathly Hallows – Part 2."	3	1	1
+Transformers Dark of the Moon	"It made $5.5 million during Tuesday 9 p.m. showings, $8 million during midnight showings."	3	1	1
+Transformers Dark of the Moon	It grossed $33.0 million on Friday totaling $97.8 million.	3	1	1
+Transformers Dark of the Moon	"Its 3D share accounted for 60% of its gross, which was atypical due to the downturn in 3D attendance in North America."	4	1	0
+Transformers Dark of the Moon	"It achieved the third-largest opening weekend of 2011, the fourth-largest opening weekend in July, the fifth-largest opening weekend for a film not released on Friday and the second-largest five-day gross for a film opening on Wednesday."	2	2	1
+Transformers Dark of the Moon	"It set records for the 3-day ($97.9 million) and 4-day ($115.9 million) Independence Day weekend, surpassing Spider-Man 2 '​s record in both cases ($88.2 million and $115.8 million respectively)."	4	1	0
+Transformers Dark of the Moon	"It retained first place on its second weekend, dropping 52% to $47.1 million."	3	1	1
+Transformers Dark of the Moon	Its foreign launch was 57% ahead of that of Revenge of the Fallen ($139.6 million).	5	0	0
+Transformers Dark of the Moon	"It also topped the Blu-ray charts on the same week and it has sold 2,381,657 Blu-ray units (earning $50,934,911) by October 23, 2011."	2	3	0
+Transformers Dark of the Moon	"The film is also the first in the franchise without the involvement of DreamWorks, leaving the series to be produced solely by Paramount Pictures."	3	2	0
+Transformers Dark of the Moon	"The film's story is set three years after the events of the 2009 film, with the Autobots, during their collaboration with the NEST (Nonbiological Extraterrestrial Species Treaty) military force, discovering a hidden alien technology in possession of humans, which had been found by Apollo 11 on the Moon 42 years earlier."	2	3	0
+Transformers Dark of the Moon	"The film was rendered specifically for 3-D, and the visual effects involved more complex robots which took longer to render."	3	2	0
+Transformers Dark of the Moon	"Having been called Transformers 3 up to that point, the film's final title was revealed to be Dark of the Moon in October 2010."	2	3	0
+Transformers Dark of the Moon	"After Revenge of the Fallen was almost universally panned by critics, Bay acknowledged the general flaws of the script, having blamed the 2007–2008 Writers Guild of America strike prior to the film for many problems."	3	2	0
+Transformers Dark of the Moon	"According to various published sources, Fox's absence from the film was due to Bay ultimately choosing not to renew her role in light of her comparing him and his work ethics to Adolf Hitler, although representatives for the actress said that it was her decision to leave the film franchise."	3	2	0
+Transformers Dark of the Moon	A few well-known actors such as John Malkovich and Frances McDormand also gained selected roles for the film.	3	2	0
+Transformers Dark of the Moon	However they were briefly seen in the N.E.S.T headquarters in their vehicle modes in the film.	3	2	0
+Transformers Dark of the Moon	"Though about 70 percent of the films live action footage was shot in 3-D using Arri Alexa and Sony F35 cameras, more than half of the film still had to be converted into 3-D in post production to fix technical flaws 3-D filming produces."	4	1	0
+Transformers Dark of the Moon	"On the last weekend of ILM's work on Dark of the Moon, the company's entire render farm was being used for the film, giving ILM more than 200,000 hours of rendering power a day—or equivalent to 22.8 years of rendering time in a 24-hour period."	1	3	1
+Transformers Dark of the Moon	"ILM made 600 3-D shots, and Digital Domain had under 200, while Legend3-D, the lead 3-D conversion company of the film, completed 78 minutes of work on the film and finalized the work of approximately 40 minutes of challenging non-visual effects and 38 minutes of visual effects shots."	3	2	0
+Transformers Dark of the Moon	listed the album as unavailable while the album was still being listed for release during the week of the film's global release.	5	0	0
+Transformers Dark of the Moon	"The album for the film was released on June 14, 2011."	4	1	0
+Transformers Dark of the Moon	"Though it is slightly different from the film, the novel still pertains to the topic and synopsis of the film it is based on in the outcome of the final battle."	2	3	0
+Transformers Dark of the Moon	"Baz Bamigboye of the Daily Mail titled his review of the film, 'Come back Megan Fox, all is forgiven...'."	3	2	0
+Transformers Dark of the Moon	"Jim Vejvoda of IGN gave the film a score of seven out of ten, also stating that it was the best of the franchise."	3	2	0
+Transformers Dark of the Moon	"E! Online graded the film a B+ while noting if this film is truly the end of a trilogy, its main antagonists should have played more of a part."	3	2	0
+Transformers Dark of the Moon	CinemaScore polls reported that the average grade moviegoers gave the film was an A on an F to A+ scale.	2	3	0
+Transformers Dark of the Moon	"After previewing a partial, unfinished cut of the film, Kofi Outlaw of Screen Rant declared that Bay had created the best 3-D experience since James Cameron's Avatar."	2	3	0
+Transformers Dark of the Moon	"She went on to say that the film's frequent, often jarring shifts in tone were an intentional endorsement of Michael Bay's own filmmaking style."	2	3	0
+Transformers Dark of the Moon	The film topped the box office outside North America for two weekends in a row.	3	1	1
+Transformers Dark of the Moon	"The Blu-ray 3D release of the film was released on January 31, 2012."	4	1	0
+Who Framed Roger Rabbit	Who Framed Roger Rabbit is a 1988 American live-action/animated fantasy-comedy film directed by Robert Zemeckis.	3	2	0
+Who Framed Roger Rabbit	"The screenplay by Jeffrey Price and Peter S. Seaman is based on Gary K. Wolf's 1981 novel Who Censored Roger Rabbit?, which depicts a world in which cartoon characters interact directly with human beings and animals."	2	3	0
+Who Framed Roger Rabbit	"Who Framed Roger Rabbit stars Bob Hoskins as private detective Eddie Valiant, who investigates a murder involving the famous cartoon character, Roger Rabbit."	3	2	0
+Who Framed Roger Rabbit	Walt Disney Productions purchased the film rights to the story in 1981.	3	2	0
+Who Framed Roger Rabbit	"Disney released the film through its Touchstone Pictures division on June 22, 1988 to financial success and largely positive reviews."	2	3	0
+Who Framed Roger Rabbit	"Who Framed Roger Rabbit spurred a renewed interest in the Golden Age of American animation and spearheaded the modern era of American animation, especially the Disney Renaissance."	2	3	0
+Who Framed Roger Rabbit	Richard LeParmentier has a minor role as Lieutenant Santino.	4	1	0
+Who Framed Roger Rabbit	"Joel Silver makes a cameo appearance as Raoul St. Raoul, a director frustrated with Roger Rabbit's antics."	2	3	0
+Who Framed Roger Rabbit	"In addition to Lander as Smart Ass and Fleischer as Greasy and Psycho, Fred Newman voiced Stupid and June Foray voiced Wheezy."	4	1	0
+Who Framed Roger Rabbit	"Foray also voiced Lena Hyena, a hag Toon woman who resembles Jessica Rabbit and provides a comical role which shows her falling for Eddie and pursuing him."	3	2	0
+Who Framed Roger Rabbit	"Mel Blanc voiced Bugs Bunny, Daffy Duck, Porky Pig, Tweety and Sylvester, while Joe Alaskey voiced Yosemite Sam and Foghorn Leghorn in place of the elderly Blanc (Who Framed Roger Rabbit was one of the final productions in which Blanc voiced the Looney Tunes characters before his death in 1989)."	2	3	0
+Who Framed Roger Rabbit	Animation director Richard Williams voiced Droopy.	4	1	0
+Who Framed Roger Rabbit	"Wayne Allwine voiced Mickey Mouse, Tony Pope voiced Goofy (also partially voiced by Bill Farmer) and The Big Bad Wolf, Russi Taylor voiced Minnie Mouse and some birds, Cherry Davis voiced Woody Woodpecker, Tony Anselmo voiced Donald Duck (with an archival recording of Clarence Nash, the original voice of Donald, used at the beginning of the scene), Frank Welker voiced Dumbo, Mae Questel reprised her role as Betty Boop, Pat Buttram, Jim Cummings &amp; Jim Gallant voiced Valiant's animated bullets, Les Perkins voiced Mr. Toad, Mary Radford voiced Hyacinth Hippo from Fantasia, Nancy Cartwright voiced the Dipped shoe, and Peter Westy voiced Pinocchio."	3	2	0
+Who Framed Roger Rabbit	Walt Disney Productions purchased the film rights to Gary K. Wolf's novel Who Censored Roger Rabbit? shortly after its publication in 1981.	3	2	0
+Who Framed Roger Rabbit	"Roger Rabbit was finally green-lit when the budget decreased to $30 million, which at the time still made it the most expensive animated film ever green-lit."	2	3	0
+Who Framed Roger Rabbit	Spielberg's contract included an extensive amount of creative control and a large percentage of the box office profits.	3	2	0
+Who Framed Roger Rabbit	"Terry Gilliam was offered the chance to direct, but he found the project too technically challenging."	2	3	0
+Who Framed Roger Rabbit	Price and Seaman were brought aboard to continue writing the script once Spielberg and Zemeckis were hired.	2	3	0
+Who Framed Roger Rabbit	"For inspiration, the two writers studied the work of Walt Disney and Warner Bros. Cartoons from the Golden Age of American animation, especially Tex Avery and Bob Clampett cartoons."	2	2	1
+Who Framed Roger Rabbit	The Cloverleaf streetcar subplot was inspired by Chinatown.	1	4	0
+Who Framed Roger Rabbit	"During the writing process, Price and Seaman were unsure of whom to include as the villain."	2	3	0
+Who Framed Roger Rabbit	VistaVision cameras installed with motion control technology were used for the photography of the live-action scenes which would be composited with animation.	1	4	0
+Who Framed Roger Rabbit	Post-production lasted for fourteen months.	3	2	0
+Who Framed Roger Rabbit	"Because the film was made before computer animation and digital compositing were widely used, all the animation was done using cels and optical compositing."	3	2	0
+Who Framed Roger Rabbit	"Regular Zemeckis collaborator Alan Silvestri composed the film score, performed by the London Symphony Orchestra (LSO) under the direction of Silvestri."	3	2	0
+Who Framed Roger Rabbit	"Michael Eisner, then CEO, and Roy E. Disney, Vice Chairman of the Walt Disney Company, felt Who Framed Roger Rabbit was too risqué with sexual references."	2	3	0
+Who Framed Roger Rabbit	"Who Framed Roger Rabbit opened on June 24, 1988, in America, grossing $11,226,239 in 1,045 theaters during its opening weekend, ranking first place in the domestic box office."	2	3	0
+Who Framed Roger Rabbit	"The film went on to gross $156,452,370 in North America and $173,351,588 internationally, coming to a worldwide total of $329,803,958."	4	1	0
+Who Framed Roger Rabbit	Zemeckis has revealed a 3D reissue could be possible.	2	3	0
+Who Framed Roger Rabbit	"Who Framed Roger Rabbit was first released on VHS on October 12, 1989."	3	2	0
+Who Framed Roger Rabbit	A Laserdisc edition was also released.	4	1	0
+Who Framed Roger Rabbit	"On March 12, 2013, Who Framed Roger Rabbit was released by Touchstone Home Entertainment on Blu-ray Disc and DVD combo pack special edition for the film's 25th Anniversary."	2	3	0
+Who Framed Roger Rabbit	Who Framed Roger Rabbit is considered by several film critics as one of the best films of 1988.	1	3	1
+Who Framed Roger Rabbit	"Conversely, Richard Corliss, writing for Time, gave a mixed review."	4	1	0
+Who Framed Roger Rabbit	"As of November 2014[update, 60 reviews collected by review aggregator Rotten Tomatoes indicated 98% of reviewers enjoyed the film, earning an average score of 8.4/10."	3	2	0
+Who Framed Roger Rabbit	"Metacritic calculated an average score of 83, based on 15 reviews."	4	1	0
+Who Framed Roger Rabbit	"Who Framed Roger Rabbit is the first animated/live action film to win four Academy Awards, and became the first animated film to win multiple Academy Awards since Mary Poppins in 1964."	2	2	1
+Who Framed Roger Rabbit	"The success of Who Framed Roger Rabbit rekindled an interest in the Golden Age of American animation, and sparked the modern animation scene."	3	2	0
+Who Framed Roger Rabbit	"In 1991, Walt Disney Imagineering began to develop Mickey's Toontown for Disneyland, based on the Toontown that appeared in the film."	3	2	0
+Who Framed Roger Rabbit	"With the film's Laserdisc release, Variety first reported in March 1994 that observers uncovered several scenes of antics from the animators that supposedly featured brief nudity of the Jessica Rabbit character."	1	3	1
+Who Framed Roger Rabbit	"While undetectable when played at the usual rate of 24 film frames per second, the Laserdisc player allowed the viewer to advance frame-by-frame to uncover these visuals."	3	2	0
+Who Framed Roger Rabbit	Another frequently debated scene includes one where Baby Herman extends his middle finger as he passes under a woman's dress and re-emerges with drool on his lip.	3	2	0
+Who Framed Roger Rabbit	"Gary K. Wolf, author of the novel Who Censored Roger Rabbit?, filed a lawsuit in 2001 against The Walt Disney Company."	1	4	0
+Who Framed Roger Rabbit	"With the film's critical and financial success, Disney and Spielberg felt it was obviously time to plan a second installment."	3	2	0
+Who Framed Roger Rabbit	"Nat Mauldin wrote a prequel titled Roger Rabbit: The Toon Platoon, set in 1941."	2	3	0
+Who Framed Roger Rabbit	Mauldin later re-titled the script Who Discovered Roger Rabbit.	3	2	0
+Who Framed Roger Rabbit	Spielberg left the project when deciding he could not satirize Nazis after directing Schindler's List.	1	3	1
+Who Framed Roger Rabbit	Eisner commissioned a rewrite in 1997 with Sherri Stoner and Deanna Oliver.	4	1	0
+Who Framed Roger Rabbit	"Spielberg had no interest in the project because he was establishing DreamWorks, although Frank Marshall and Kathleen Kennedy decided to stay on as producers."	3	2	0
+Who Framed Roger Rabbit	"Test footage for Who Discovered Roger Rabbit was shot sometime in 1998 at the Disney animation unit in Lake Buena Vista, Florida; the results were an unwieldy mix of CGI, traditional animation and live-action that did not please Disney."	3	2	0
+Who Framed Roger Rabbit	"According to a 2009 MTV News story, Jeffrey Price and Peter S. Seaman were writing a new script for the project, and the cartoon characters will be in traditional 2D, while the rest will be in motion capture."	4	1	0
+Who Framed Roger Rabbit	"In February 2013, Gary K. Wolf, creator of Roger Rabbit, that he as well as Erik Von Wodtke were working on a development proposal for an animated Disney buddy comedy starring Mickey Mouse and Roger Rabbit called The Stooge, based on the 1952 film of the same name."	2	3	0
+Who Framed Roger Rabbit	The Roger Rabbit became a popular dance move in the early 1990s.	2	3	0
+Who Framed Roger Rabbit	One of the themes in the film pertains to the dismantling of public transportation systems by private companies who would profit from an automobile transportation system and freeway infrastructure.	2	3	0
+Who Framed Roger Rabbit	"It won Academy Awards for Best Sound Editing (Charles L. Campbell and Louis Edemann), Best Visual Effects and Best Film Editing."	1	4	0
+Who Framed Roger Rabbit	"It began with Roger Rabbit's early years, living on a farm in the Midwestern United States."	3	2	0
+Who Framed Roger Rabbit	It was named after the floppy movements of the Roger Rabbit cartoon character.	4	1	0
+Who Framed Roger Rabbit	"The film co-stars Charles Fleischer as the eponymous character's voice; Christopher Lloyd as Judge Doom, the villain; Kathleen Turner as the voice of Jessica Rabbit, Roger's cartoon wife; and Joanna Cassidy as Dolores, the detective's girlfriend."	3	2	0
+Who Framed Roger Rabbit	Zemeckis was brought on to direct the film.	4	1	0
+Who Framed Roger Rabbit	"Before finally agreeing on Who Framed Roger Rabbit as the film's title, working titles included Murder in Toontown, Toons, Dead Toons Don't Pay Bills, The Toontown Trial, Trouble in Toontown, and Eddie Goes to Toontown."	2	2	1
+Who Framed Roger Rabbit	"One of the most difficult effects in the film was Jessica's dress in the night club scene, because it had flashing sequins, an effect accomplished by filtering light through a plastic bag scratched with steel wool."	0	2	3
+Who Framed Roger Rabbit	"The film's soundtrack was originally released by Buena Vista Records on June 22, 1988, and reissued by Walt Disney Records on CD on April 16, 2002."	2	3	0
+Who Framed Roger Rabbit	"Eisner and Zemeckis disagreed over elements with the film, but since Zemeckis had final cut privilege, he refused to make alterations."	3	2	0
+Who Framed Roger Rabbit	"Roy E. Disney, head of Feature Animation along with studio chief Jeffrey Katzenberg, felt it was appropriate to release the film under their Touchstone Pictures banner instead of the traditional Walt Disney Pictures banner."	2	3	0
+Who Framed Roger Rabbit	"The film was also the second highest grossing film of 1988, behind only Rain Man."	3	1	1
+Who Framed Roger Rabbit	The film was also digitally restored by Disney for its 25th Anniversary.	3	2	0
+Who Framed Roger Rabbit	Ebert and his colleague Gene Siskel of the Chicago Tribune spent a considerable amount of time in the Siskel &amp; Ebert episode in which they reviewed the film analyzing the film's painstaking filmmaking.	3	2	0
+Who Framed Roger Rabbit	"Siskel also loved the film, and ranked it on #2 on the best films of 1988, while Ebert ranked it as #6 on a similar list."	1	4	0
+Who Framed Roger Rabbit	Animation legend Chuck Jones made a rather scathing attack on the film in his book Chuck Jones Conversations.	2	3	0
+Who Framed Roger Rabbit	The film was nominated for four categories at the 42nd British Academy Film Awards and won an award for its visual effects.	2	2	1
+Who Framed Roger Rabbit	The film also won the Hugo Award for Best Dramatic Presentation and Kids' Choice Award for Favorite Movie.	1	4	0
+Who Framed Roger Rabbit	"The film also inspired a short-lived comic book and video game spin-offs, including two PC games, the Japanese version of The Bugs Bunny Crazy Castle (which features Roger instead of Bugs), a 1989 game released on the Nintendo Entertainment System, and a 1991 game released on the Game Boy."	1	4	0
+Who Framed Roger Rabbit	Disney was impressed and Alan Menken was hired to write five songs for the film and offered his services as executive producer.	2	3	0
+Who Framed Roger Rabbit	A second test had the Toons completely converted to CGI; but this was dropped as the film's projected budget escalated well past $100 million.	3	2	0
+Who Framed Roger Rabbit	Eisner felt it was best to cancel the film.	4	1	0
+Who Framed Roger Rabbit	"Also in 2010, Don Hahn, who was the film's original associate producer, confirmed the sequel's development in an interview with Empire magazine."	4	1	0
+Who Framed Roger Rabbit	"Marshall has confirmed that the film is a prequel, similar to earlier drafts, and that the writing was almost complete."	3	2	0
+Who Framed Roger Rabbit	Wolf has stated the film is currently wending its way through Disney.	4	1	0
+Who Framed Roger Rabbit	"Near the end of the film, Judge Doom reveals his plot to destroy Toon Town to make way for the new freeway system."	3	2	0

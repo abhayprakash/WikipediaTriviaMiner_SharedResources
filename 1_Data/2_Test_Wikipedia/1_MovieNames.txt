@@ -1,0 +1,21 @@
+MOVIE	WIKIPEDIA_URL	IMDB_URL
+Aliens (film)	http://en.wikipedia.org/wiki/Aliens_%28film%29	http://www.imdb.com/title/tt0090605/
+Batman Begins	http://en.wikipedia.org/wiki/Batman_Begins	http://www.imdb.com/title/tt0372784/
+Elf (film)	http://en.wikipedia.org/wiki/Elf_%28film%29	http://www.imdb.com/title/tt0319343/
+Final Destination (film)	http://en.wikipedia.org/wiki/Final_Destination_%28film%29	http://www.imdb.com/title/tt0195714/
+Gravity (film)	http://en.wikipedia.org/wiki/Gravity_%28film%29	http://www.imdb.com/title/tt1454468/
+Her (film)	http://en.wikipedia.org/wiki/Her_%28film%29	http://www.imdb.com/title/tt1798709/
+Interstellar (film)	http://en.wikipedia.org/wiki/Interstellar_%28film%29	http://www.imdb.com/title/tt0816692/
+Let Me In (film)	http://en.wikipedia.org/wiki/Let_Me_In_%28film%29	http://www.imdb.com/title/tt1228987/
+Lone Survivor (film)	http://en.wikipedia.org/wiki/Lone_Survivor_%28film%29	http://www.imdb.com/title/tt1091191/
+Man of Steel (film)	http://en.wikipedia.org/wiki/Man_of_Steel_%28film%29	http://www.imdb.com/title/tt0770828/
+Pineapple Express (film)	http://en.wikipedia.org/wiki/Pineapple_Express_%28film%29	http://www.imdb.com/title/tt0910936/
+Primary Colors (film)	http://en.wikipedia.org/wiki/Primary_Colors_%28film%29	http://www.imdb.com/title/tt0119942/
+Riddick (film)	http://en.wikipedia.org/wiki/Riddick_%28film%29	http://www.imdb.com/title/tt1411250/
+Rio 2	http://en.wikipedia.org/wiki/Rio_2	http://www.imdb.com/title/tt2357291/
+Talk to Her	http://en.wikipedia.org/wiki/Talk_to_Her	http://www.imdb.com/title/tt0287467/
+The Commitments (film)	http://en.wikipedia.org/wiki/The_Commitments_%28film%29	http://www.imdb.com/title/tt0101605/
+The Deer Hunter	http://en.wikipedia.org/wiki/The_Deer_Hunter	http://www.imdb.com/title/tt0077416/
+The Incredibles	http://en.wikipedia.org/wiki/The_Incredibles	http://www.imdb.com/title/tt0317705/
+Transformers Dark of the Moon	http://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon	http://www.imdb.com/title/tt1399103/
+Who Framed Roger Rabbit	http://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit	http://www.imdb.com/title/tt0096438/
