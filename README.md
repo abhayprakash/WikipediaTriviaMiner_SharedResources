@@ -1,5 +1,5 @@
 # WikipediaTriviaMiner_SharedResources
-The repository contains data and code for the work presented in "Did you know?- Mining Interesting Trivia for Entities from Wikipedia", that will be published in IJCAI-2015.
+The repository contains data and code for the work presented in <b>"<i>Did you know?</i>- Mining Interesting Trivia for Entities from Wikipedia"</b>, that will be published in IJCAI-2015.
 
 Description for each of the folder:
 <ul>
