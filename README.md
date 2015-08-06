@@ -3,6 +3,8 @@ The repository contains data and code for the work presented in <b>"<i>Did you k
 
 Paper can be downloaded at: http://ijcai.org/papers15/Papers/IJCAI15-446.pdf
 
+View Conference Presentation at: http://www.slideshare.net/abhayiitr/ijcai-2015-presentation-did-you-know-mining-interesting-trivia-for-entities-from-wikipedia
+
 Description for each of the folder:
 <ul>
 <li><b>1_Data</b> - Contains raw (obtained through Crowd-Judgement) and prepared data for train and test.</li>
